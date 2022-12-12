@@ -286,7 +286,9 @@ elif user_menu == utils.country_wise:
                                                  x_axis=utils.year,
                                                  y_axis=utils.goals,
                                                  plot_title='Goals in participated world cups')
-    st.plotly_chart(country_yearly_goals_chart,use_container_width=True)
+    with st.container():
+        st.header('')
+        st.plotly_chart(country_yearly_goals_chart,use_container_width=True)
 
     # Top 5 players with most goals for a given country
 
@@ -305,5 +307,6 @@ elif user_menu == utils.country_wise:
                                                          x_axis=utils.player_name,
                                                          y_axis=utils.goals,
                                                          plot_title='Top Scorers in World Cups')
-
-    st.plotly_chart(player_country_goals_grouped_chart,use_container_width=True)
+    with st.container():
+        st.header('')
+        st.plotly_chart(player_country_goals_grouped_chart,use_container_width=True)
