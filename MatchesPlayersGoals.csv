@@ -1,0 +1,2549 @@
+year,country,player_id,player_name,home_goals,away_goals,own_goal,penalty
+1930,France,P-09831,Lucien Laurent,1,0,0,0
+1930,France,P-05670,Marcel Langiller,1,0,0,0
+1930,France,P-07295,André Maschinot,1,0,0,0
+1930,France,P-07295,André Maschinot,1,0,0,0
+1930,Mexico,P-03952,Juan Carreño,0,1,0,0
+1930,United States,P-09935,Bart McGhee,1,0,0,0
+1930,United States,P-06672,Tom Florie,1,0,0,0
+1930,United States,P-09215,Bert Patenaude,1,0,0,0
+1930,Yugoslavia,P-00319,Aleksandar Tirnanić,1,0,0,0
+1930,Yugoslavia,P-06435,Ivan Bek,1,0,0,0
+1930,Brazil,P-03855, Preguinho,0,1,0,0
+1930,Romania,P-00978,Adalbert Deşu,1,0,0,0
+1930,Romania,P-04102,Constantin Stanciu,1,0,0,0
+1930,Romania,P-02034,Miklós Kovács,1,0,0,0
+1930,Peru,P-00521,Luis Souza Ferreira,0,1,0,0
+1930,Argentina,P-03789,Luis Monti,1,0,0,0
+1930,Chile,P-04216,Carlos Vidal,1,0,0,0
+1930,Chile,P-04216,Carlos Vidal,1,0,0,0
+1930,Mexico,P-04652,Manuel Rosas,1,0,1,0
+1930,Yugoslavia,P-06435,Ivan Bek,1,0,0,0
+1930,Yugoslavia,P-06435,Ivan Bek,1,0,0,0
+1930,Yugoslavia,P-00296,Blagoje Marjanović,1,0,0,0
+1930,Yugoslavia,P-03989,Đorđe Vujadinović,1,0,0,0
+1930,United States,P-09215,Bert Patenaude,1,0,0,0
+1930,United States,P-09215,Bert Patenaude,1,0,0,0
+1930,United States,P-09215,Bert Patenaude,1,0,0,0
+1930,Uruguay,P-00826,Héctor Castro,1,0,0,0
+1930,Chile,P-04702,Guillermo Subiabre,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-00455,Adolfo Zumelzú,1,0,0,0
+1930,Argentina,P-00455,Adolfo Zumelzú,1,0,0,0
+1930,Argentina,P-00290,Francisco Varallo,1,0,0,0
+1930,Mexico,P-04652,Manuel Rosas,0,1,0,1
+1930,Mexico,P-04652,Manuel Rosas,0,1,0,0
+1930,Mexico,P-04746,Roberto Gayón,0,1,0,0
+1930,Brazil,P-04578, Moderato,1,0,0,0
+1930,Brazil,P-04578, Moderato,1,0,0,0
+1930,Brazil,P-03855, Preguinho,1,0,0,0
+1930,Brazil,P-03855, Preguinho,1,0,0,0
+1930,Paraguay,P-06978,Luis Vargas Peña,1,0,0,0
+1930,Uruguay,P-00275,Pablo Dorado,1,0,0,0
+1930,Uruguay,P-02775,Héctor Scarone,1,0,0,0
+1930,Uruguay,P-08997,Peregrino Anselmo,1,0,0,0
+1930,Uruguay,P-00724,Pedro Cea,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-06416,Mario Evaristo,1,0,0,0
+1930,Chile,P-04702,Guillermo Subiabre,0,1,0,0
+1930,Argentina,P-03789,Luis Monti,1,0,0,0
+1930,Argentina,P-03988,Alejandro Scopelli,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-04418,Guillermo Stábile,1,0,0,0
+1930,Argentina,P-03816,Carlos Peucelle,1,0,0,0
+1930,Argentina,P-03816,Carlos Peucelle,1,0,0,0
+1930,United States,P-05896,Jim Brown,0,1,0,0
+1930,Uruguay,P-00724,Pedro Cea,1,0,0,0
+1930,Uruguay,P-00724,Pedro Cea,1,0,0,0
+1930,Uruguay,P-00724,Pedro Cea,1,0,0,0
+1930,Uruguay,P-08997,Peregrino Anselmo,1,0,0,0
+1930,Uruguay,P-08997,Peregrino Anselmo,1,0,0,0
+1930,Uruguay,P-05989,Santos Iriarte,1,0,0,0
+1930,Yugoslavia,P-03989,Đorđe Vujadinović,0,1,0,0
+1930,Uruguay,P-00275,Pablo Dorado,1,0,0,0
+1930,Uruguay,P-00724,Pedro Cea,1,0,0,0
+1930,Uruguay,P-05989,Santos Iriarte,1,0,0,0
+1930,Uruguay,P-00826,Héctor Castro,1,0,0,0
+1930,Argentina,P-03816,Carlos Peucelle,0,1,0,0
+1930,Argentina,P-04418,Guillermo Stábile,0,1,0,0
+1934,Austria,P-07395,Matthias Sindelar,1,0,0,0
+1934,Austria,P-06987,Anton Schall,1,0,0,0
+1934,Austria,P-03565,Josef Bican,1,0,0,0
+1934,France,P-01289,Jean Nicolas,0,1,0,0
+1934,France,P-00692,Georges Verriest,0,1,0,1
+1934,Czechoslovakia,P-02061,Antonín Puč,1,0,0,0
+1934,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1934,Romania,P-08716,Ștefan Dobay,0,1,0,0
+1934,Germany,P-01808,Stanislaus Kobierski,1,0,0,0
+1934,Germany,P-06647,Otto Siffling,1,0,0,0
+1934,Germany,P-03649,Edmund Conen,1,0,0,0
+1934,Germany,P-03649,Edmund Conen,1,0,0,0
+1934,Germany,P-03649,Edmund Conen,1,0,0,0
+1934,Belgium,P-00804,Bernard Voorhoof,0,1,0,0
+1934,Belgium,P-00804,Bernard Voorhoof,0,1,0,0
+1934,Hungary,P-09365,Pál Teleki,1,0,0,0
+1934,Hungary,P-07150,Géza Toldi,1,0,0,0
+1934,Hungary,P-07150,Géza Toldi,1,0,0,0
+1934,Hungary,P-04863,Jenő Vincze,1,0,0,0
+1934,Egypt,P-07685,Abdulrahman Fawzi,0,1,0,0
+1934,Egypt,P-07685,Abdulrahman Fawzi,0,1,0,0
+1934,Italy,P-02250,Angelo Schiavio,1,0,0,0
+1934,Italy,P-02250,Angelo Schiavio,1,0,0,0
+1934,Italy,P-02250,Angelo Schiavio,1,0,0,0
+1934,Italy,P-06734,Raimundo Orsi,1,0,0,0
+1934,Italy,P-06734,Raimundo Orsi,1,0,0,0
+1934,Italy,P-06750,Giovanni Ferrari,1,0,0,0
+1934,Italy,P-03621,Giuseppe Meazza,1,0,0,0
+1934,United States,P-01139,Aldo Donelli,0,1,0,0
+1934,Spain,P-09183,José Iraragorri,1,0,0,1
+1934,Spain,P-09183,José Iraragorri,1,0,0,0
+1934,Spain,P-02668,Isidro Lángara,1,0,0,0
+1934,Brazil,P-03023, Leônidas,0,1,0,0
+1934,Sweden,P-06290,Sven Jonasson,1,0,0,0
+1934,Sweden,P-06290,Sven Jonasson,1,0,0,0
+1934,Sweden,P-01191,Knut Kroon,1,0,0,0
+1934,Argentina,P-09883,Ernesto Belis,0,1,0,0
+1934,Argentina,P-03717,Alberto Galateo,0,1,0,0
+1934,Switzerland,P-08185,Leopold Kielholz,1,0,0,0
+1934,Switzerland,P-08185,Leopold Kielholz,1,0,0,0
+1934,Switzerland,P-05367,André Abegglen,1,0,0,0
+1934,Netherlands,P-01717,Kick Smit,0,1,0,0
+1934,Netherlands,P-05901,Leen Vente,0,1,0,0
+1934,Austria,P-08559,Johann Horvath,1,0,0,0
+1934,Austria,P-03943,Karl Zischek,1,0,0,0
+1934,Hungary,P-02366,György Sárosi,0,1,0,1
+1934,Czechoslovakia,P-05088,František Svoboda,1,0,0,0
+1934,Czechoslovakia,P-02890,Jiří Sobotka,1,0,0,0
+1934,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1934,Switzerland,P-08185,Leopold Kielholz,0,1,0,0
+1934,Switzerland,P-06523,Willy Jäggi,0,1,0,0
+1934,Germany,P-04731,Karl Hohmann,1,0,0,0
+1934,Germany,P-04731,Karl Hohmann,1,0,0,0
+1934,Sweden,P-01236,Gösta Dunker,0,1,0,0
+1934,Italy,P-06750,Giovanni Ferrari,1,0,0,0
+1934,Spain,P-03198,Luis Regueiro,0,1,0,0
+1934,Italy,P-03621,Giuseppe Meazza,1,0,0,0
+1934,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1934,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1934,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1934,Germany,P-08354,Rudolf Noack,0,1,0,0
+1934,Italy,P-04599,Enrique Guaita,1,0,0,0
+1934,Germany,P-09992,Ernst Lehner,1,0,0,0
+1934,Germany,P-09992,Ernst Lehner,1,0,0,0
+1934,Germany,P-03649,Edmund Conen,1,0,0,0
+1934,Austria,P-08559,Johann Horvath,0,1,0,0
+1934,Austria,P-00993,Karl Sesta,0,1,0,0
+1934,Italy,P-06734,Raimundo Orsi,1,0,0,0
+1934,Italy,P-02250,Angelo Schiavio,1,0,0,0
+1934,Czechoslovakia,P-02061,Antonín Puč,0,1,0,0
+1938,Switzerland,P-05367,André Abegglen,1,0,0,0
+1938,Germany,P-01368,Josef Gauchel,0,1,0,0
+1938,Cuba,P-05379,Héctor Socorro,1,0,0,0
+1938,Cuba,P-05379,Héctor Socorro,1,0,0,0
+1938,Cuba,P-01298,José Magriñá,1,0,0,0
+1938,Romania,P-05831,Silviu Bindea,0,1,0,0
+1938,Romania,P-01365,Iuliu Baratky,0,1,0,0
+1938,Romania,P-08716,Ștefan Dobay,0,1,0,0
+1938,France,P-06225,Émile Veinante,1,0,0,0
+1938,France,P-01289,Jean Nicolas,1,0,0,0
+1938,France,P-01289,Jean Nicolas,1,0,0,0
+1938,Belgium,P-02231,Hendrik Isemborghs,0,1,0,0
+1938,Hungary,P-07816,Vilmos Kohut,1,0,0,0
+1938,Hungary,P-07150,Géza Toldi,1,0,0,0
+1938,Hungary,P-02366,György Sárosi,1,0,0,0
+1938,Hungary,P-02366,György Sárosi,1,0,0,0
+1938,Hungary,P-04466,Gyula Zsengellér,1,0,0,0
+1938,Hungary,P-04466,Gyula Zsengellér,1,0,0,0
+1938,Italy,P-00963,Pietro Ferraris,1,0,0,0
+1938,Italy,P-08824,Silvio Piola,1,0,0,0
+1938,Norway,P-00254,Arne Brustad,0,1,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-06138, Romeu,1,0,0,0
+1938,Brazil,P-00023, Perácio,1,0,0,0
+1938,Brazil,P-00023, Perácio,1,0,0,0
+1938,Poland,P-08493,Fryderyk Scherfke,0,1,0,1
+1938,Poland,P-00461,Ernst Wilimowski,0,1,0,0
+1938,Poland,P-00461,Ernst Wilimowski,0,1,0,0
+1938,Poland,P-00461,Ernst Wilimowski,0,1,0,0
+1938,Poland,P-00461,Ernst Wilimowski,0,1,0,0
+1938,Czechoslovakia,P-01268,Josef Košťálek,1,0,0,0
+1938,Czechoslovakia,P-06064,Josef Zeman,1,0,0,0
+1938,Czechoslovakia,P-05627,Oldřich Nejedlý,1,0,0,0
+1938,Cuba,P-05379,Héctor Socorro,1,0,0,0
+1938,Cuba,P-01184,Tomás Fernández,1,0,0,0
+1938,Romania,P-08716,Ștefan Dobay,0,1,0,0
+1938,Switzerland,P-06459,Eugen Walaschek,1,0,0,0
+1938,Switzerland,P-01417,Alfred Bickel,1,0,0,0
+1938,Switzerland,P-05367,André Abegglen,1,0,0,0
+1938,Switzerland,P-05367,André Abegglen,1,0,0,0
+1938,Germany,P-04109,Wilhelm Hahnemann,0,1,0,0
+1938,Switzerland,P-09000,Ernst Lörtscher,0,1,1,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Czechoslovakia,P-05627,Oldřich Nejedlý,0,1,0,1
+1938,Hungary,P-02366,György Sárosi,1,0,0,0
+1938,Hungary,P-04466,Gyula Zsengellér,1,0,0,0
+1938,Italy,P-03238,Gino Colaussi,1,0,0,0
+1938,Italy,P-08824,Silvio Piola,1,0,0,0
+1938,Italy,P-08824,Silvio Piola,1,0,0,0
+1938,France,P-01176,Oscar Heisserer,0,1,0,0
+1938,Sweden,P-02236,Harry Andersson,1,0,0,0
+1938,Sweden,P-02236,Harry Andersson,1,0,0,0
+1938,Sweden,P-02236,Harry Andersson,1,0,0,0
+1938,Sweden,P-08959,Gustav Wetterström,1,0,0,0
+1938,Sweden,P-08959,Gustav Wetterström,1,0,0,0
+1938,Sweden,P-08959,Gustav Wetterström,1,0,0,0
+1938,Sweden,P-05555,Tore Keller,1,0,0,0
+1938,Sweden,P-06562,Arne Nyberg,1,0,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-04054, Roberto,1,0,0,0
+1938,Czechoslovakia,P-03747,Vlastimil Kopecký,0,1,0,0
+1938,Hungary,P-02582,Pál Titkos,1,0,0,0
+1938,Hungary,P-04466,Gyula Zsengellér,1,0,0,0
+1938,Hungary,P-04466,Gyula Zsengellér,1,0,0,0
+1938,Hungary,P-02366,György Sárosi,1,0,0,0
+1938,Sweden,P-06562,Arne Nyberg,0,1,0,0
+1938,Sweden,P-05054,Sven Jacobsson,1,0,1,0
+1938,Italy,P-03238,Gino Colaussi,1,0,0,0
+1938,Italy,P-03621,Giuseppe Meazza,1,0,0,1
+1938,Brazil,P-06138, Romeu,0,1,0,0
+1938,Brazil,P-06138, Romeu,1,0,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-03023, Leônidas,1,0,0,0
+1938,Brazil,P-00023, Perácio,1,0,0,0
+1938,Sweden,P-06290,Sven Jonasson,0,1,0,0
+1938,Sweden,P-06562,Arne Nyberg,0,1,0,0
+1938,Italy,P-03238,Gino Colaussi,1,0,0,0
+1938,Italy,P-03238,Gino Colaussi,1,0,0,0
+1938,Italy,P-08824,Silvio Piola,1,0,0,0
+1938,Italy,P-08824,Silvio Piola,1,0,0,0
+1938,Hungary,P-02582,Pál Titkos,0,1,0,0
+1938,Hungary,P-02366,György Sárosi,0,1,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-06471, Jair,1,0,0,0
+1950,Brazil,P-02090, Baltazar,1,0,0,0
+1950,Yugoslavia,P-07614,Rajko Mitić,1,0,0,0
+1950,Yugoslavia,P-06934,Kosta Tomašević,1,0,0,0
+1950,Yugoslavia,P-04537,Tihomir Ognjanov,1,0,0,0
+1950,England,P-07259,Stan Mortensen,1,0,0,0
+1950,England,P-04023,Wilf Mannion,1,0,0,0
+1950,Spain,P-03617,Silvestre Igoa,1,0,0,0
+1950,Spain,P-08187,Estanislau Basora,1,0,0,0
+1950,Spain,P-03281,Telmo Zarra,1,0,0,0
+1950,United States,P-01452,Gino Pariani,0,1,0,0
+1950,Sweden,P-00166,Hasse Jeppson,1,0,0,0
+1950,Sweden,P-00166,Hasse Jeppson,1,0,0,0
+1950,Sweden,P-06904,Sune Andersson,1,0,0,0
+1950,Italy,P-08248,Riccardo Carapellese,0,1,0,0
+1950,Italy,P-00854,Ermes Muccinelli,0,1,0,0
+1950,Brazil,P-00257, Alfredo,1,0,0,0
+1950,Brazil,P-02090, Baltazar,1,0,0,0
+1950,Switzerland,P-08600,Jacques Fatton,0,1,0,0
+1950,Switzerland,P-08600,Jacques Fatton,0,1,0,0
+1950,Yugoslavia,P-04917,Stjepan Bobek,1,0,0,0
+1950,Yugoslavia,P-06963,Željko Čajkovski,1,0,0,0
+1950,Yugoslavia,P-06963,Željko Čajkovski,1,0,0,0
+1950,Yugoslavia,P-06934,Kosta Tomašević,1,0,0,0
+1950,Mexico,P-01505,Héctor Ortiz,0,1,0,1
+1950,Spain,P-08187,Estanislau Basora,1,0,0,0
+1950,Spain,P-03281,Telmo Zarra,1,0,0,0
+1950,United States,P-00852,Joe Gaetjens,1,0,0,0
+1950,Sweden,P-06002,Stig Sundqvist,1,0,0,0
+1950,Sweden,P-09097,Karl-Erik Palmér,1,0,0,0
+1950,Paraguay,P-02013,Atilio López,0,1,0,0
+1950,Paraguay,P-04742,César López Fretes,0,1,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-05390, Zizinho,1,0,0,0
+1950,Chile,P-09540,George Robledo,1,0,0,0
+1950,Chile,P-07187,Atilio Cremaschi,1,0,0,0
+1950,Chile,P-07187,Atilio Cremaschi,1,0,0,0
+1950,Chile,P-03441,Andrés Prieto,1,0,0,0
+1950,Chile,P-09291,Fernando Riera,1,0,0,0
+1950,United States,P-00014,Frank Wallace,0,1,0,0
+1950,United States,P-08718,Joe Maca,0,1,0,1
+1950,Spain,P-03281,Telmo Zarra,1,0,0,0
+1950,Italy,P-08248,Riccardo Carapellese,1,0,0,0
+1950,Italy,P-04878,Egisto Pandolfini,1,0,0,0
+1950,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1950,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1950,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1950,Uruguay,P-02966,Ernesto Vidal,1,0,0,0
+1950,Uruguay,P-08519,Juan Alberto Schiaffino,1,0,0,0
+1950,Uruguay,P-08519,Juan Alberto Schiaffino,1,0,0,0
+1950,Uruguay,P-03134,Julio Pérez,1,0,0,0
+1950,Uruguay,P-02673,Alcides Ghiggia,1,0,0,0
+1950,Switzerland,P-01810,René Bader,1,0,0,0
+1950,Switzerland,P-09805,Charles Antenen,1,0,0,0
+1950,Mexico,P-06574,Horacio Casarín,0,1,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-02577, Chico,1,0,0,0
+1950,Brazil,P-02577, Chico,1,0,0,0
+1950,Brazil,P-04673, Maneca,1,0,0,0
+1950,Sweden,P-06904,Sune Andersson,0,1,0,1
+1950,Uruguay,P-02673,Alcides Ghiggia,1,0,0,0
+1950,Uruguay,P-09349,Obdulio Varela,1,0,0,0
+1950,Spain,P-08187,Estanislau Basora,0,1,0,0
+1950,Spain,P-08187,Estanislau Basora,0,1,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-06471, Jair,1,0,0,0
+1950,Brazil,P-02577, Chico,1,0,0,0
+1950,Brazil,P-02577, Chico,1,0,0,0
+1950,Brazil,P-04188, Ademir,1,0,0,0
+1950,Brazil,P-05390, Zizinho,1,0,0,0
+1950,Spain,P-03617,Silvestre Igoa,0,1,0,0
+1950,Uruguay,P-02673,Alcides Ghiggia,1,0,0,0
+1950,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1950,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1950,Sweden,P-09097,Karl-Erik Palmér,0,1,0,0
+1950,Sweden,P-06002,Stig Sundqvist,0,1,0,0
+1950,Sweden,P-06002,Stig Sundqvist,1,0,0,0
+1950,Sweden,P-05765,Bror Mellberg,1,0,0,0
+1950,Sweden,P-09097,Karl-Erik Palmér,1,0,0,0
+1950,Spain,P-03281,Telmo Zarra,0,1,0,0
+1950,Uruguay,P-08519,Juan Alberto Schiaffino,1,0,0,0
+1950,Uruguay,P-02673,Alcides Ghiggia,1,0,0,0
+1950,Brazil,P-00745, Friaça,0,1,0,0
+1954,Brazil,P-02090, Baltazar,1,0,0,0
+1954,Brazil,P-09343, Didi,1,0,0,0
+1954,Brazil,P-01463, Pinga,1,0,0,0
+1954,Brazil,P-01463, Pinga,1,0,0,0
+1954,Brazil,P-09713, Julinho,1,0,0,0
+1954,Yugoslavia,P-05338,Miloš Milutinović,1,0,0,0
+1954,Austria,P-01943,Erich Probst,1,0,0,0
+1954,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1954,Uruguay,P-08519,Juan Alberto Schiaffino,1,0,0,0
+1954,Switzerland,P-01567,Robert Ballaman,1,0,0,0
+1954,Switzerland,P-05476,Josef Hügi,1,0,0,0
+1954,Italy,P-09693,Giampiero Boniperti,0,1,0,0
+1954,Hungary,P-03793,Ferenc Puskás,1,0,0,0
+1954,Hungary,P-03793,Ferenc Puskás,1,0,0,0
+1954,Hungary,P-04992,Mihály Lantos,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-00157,Zoltán Czibor,1,0,0,0
+1954,Hungary,P-05477,Péter Palotás,1,0,0,0
+1954,Hungary,P-05477,Péter Palotás,1,0,0,0
+1954,Germany,P-09457,Hans Schäfer,1,0,0,0
+1954,Germany,P-02472,Bernhard Klodt,1,0,0,0
+1954,Germany,P-00546,Ottmar Walter,1,0,0,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Turkey,P-00803,Suat Mamat,0,1,0,0
+1954,England,P-08640,Ivor Broadis,1,0,0,0
+1954,England,P-08640,Ivor Broadis,1,0,0,0
+1954,England,P-05298,Nat Lofthouse,1,0,0,0
+1954,England,P-05298,Nat Lofthouse,1,0,0,0
+1954,Belgium,P-08269,Léopold Anoul,0,1,0,0
+1954,Belgium,P-08269,Léopold Anoul,0,1,0,0
+1954,Belgium,P-00146,Henri Coppens,0,1,0,0
+1954,England,P-06077,Jimmy Dickinson,0,1,1,0
+1954,Uruguay,P-02079,Carlos Borges,1,0,0,0
+1954,Uruguay,P-02079,Carlos Borges,1,0,0,0
+1954,Uruguay,P-02079,Carlos Borges,1,0,0,0
+1954,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1954,Uruguay,P-06216,Oscar Míguez,1,0,0,0
+1954,Uruguay,P-06675,Julio Abbadie,1,0,0,0
+1954,Uruguay,P-06675,Julio Abbadie,1,0,0,0
+1954,Brazil,P-09343, Didi,1,0,0,0
+1954,Yugoslavia,P-02177,Branko Zebec,0,1,0,0
+1954,Austria,P-04091,Ernst Stojaspal,1,0,0,0
+1954,Austria,P-04091,Ernst Stojaspal,1,0,0,0
+1954,Austria,P-01943,Erich Probst,1,0,0,0
+1954,Austria,P-01943,Erich Probst,1,0,0,0
+1954,Austria,P-01943,Erich Probst,1,0,0,0
+1954,France,P-08257,Jean Vincent,1,0,0,0
+1954,France,P-07100,Raymond Kopa,1,0,0,1
+1954,Mexico,P-08285,José Luis Lamadrid,0,1,0,0
+1954,Mexico,P-04833,Tomás Balcázar,0,1,0,0
+1954,Mexico,P-05812,Raúl Cárdenas,1,0,1,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-03793,Ferenc Puskás,1,0,0,0
+1954,Hungary,P-09699,Nándor Hidegkuti,1,0,0,0
+1954,Hungary,P-09699,Nándor Hidegkuti,1,0,0,0
+1954,Hungary,P-07881,József Tóth,1,0,0,0
+1954,Germany,P-01092,Alfred Pfaff,0,1,0,0
+1954,Germany,P-08148,Helmut Rahn,0,1,0,0
+1954,Germany,P-02291,Richard Herrmann,0,1,0,0
+1954,Turkey,P-00803,Suat Mamat,1,0,0,0
+1954,Turkey,P-00803,Suat Mamat,1,0,0,0
+1954,Turkey,P-07363,Lefter Küçükandonyadis,1,0,0,0
+1954,Turkey,P-03219,Burhan Sargun,1,0,0,0
+1954,Turkey,P-03219,Burhan Sargun,1,0,0,0
+1954,Turkey,P-03219,Burhan Sargun,1,0,0,0
+1954,Turkey,P-09778,Erol Keskin,1,0,0,0
+1954,Italy,P-04878,Egisto Pandolfini,1,0,0,1
+1954,Italy,P-05857,Carlo Galli,1,0,0,0
+1954,Italy,P-09426,Amleto Frignani,1,0,0,0
+1954,Italy,P-08131,Benito Lorenzi,1,0,0,0
+1954,Belgium,P-08269,Léopold Anoul,0,1,0,0
+1954,England,P-09687,Jimmy Mullen,1,0,0,0
+1954,England,P-01966,Dennis Wilshaw,1,0,0,0
+1954,Germany,P-00546,Ottmar Walter,1,0,0,0
+1954,Germany,P-09457,Hans Schäfer,1,0,0,0
+1954,Germany,P-09457,Hans Schäfer,1,0,0,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Germany,P-05420,Fritz Walter,1,0,0,0
+1954,Turkey,P-01846,Mustafa Ertan,0,1,0,0
+1954,Turkey,P-07363,Lefter Küçükandonyadis,0,1,0,0
+1954,Switzerland,P-05476,Josef Hügi,1,0,0,0
+1954,Switzerland,P-05476,Josef Hügi,1,0,0,0
+1954,Switzerland,P-01567,Robert Ballaman,1,0,0,0
+1954,Switzerland,P-08600,Jacques Fatton,1,0,0,0
+1954,Italy,P-08515,Fulvio Nesti,0,1,0,0
+1954,Austria,P-04633,Theodor Wagner,1,0,0,0
+1954,Austria,P-04633,Theodor Wagner,1,0,0,0
+1954,Austria,P-04633,Theodor Wagner,1,0,0,0
+1954,Austria,P-01034,Alfred Körner,1,0,0,0
+1954,Austria,P-01034,Alfred Körner,1,0,0,0
+1954,Austria,P-00335,Ernst Ocwirk,1,0,0,0
+1954,Austria,P-01943,Erich Probst,1,0,0,0
+1954,Switzerland,P-01567,Robert Ballaman,0,1,0,0
+1954,Switzerland,P-01567,Robert Ballaman,0,1,0,0
+1954,Switzerland,P-05476,Josef Hügi,0,1,0,0
+1954,Switzerland,P-05476,Josef Hügi,0,1,0,0
+1954,Switzerland,P-05476,Josef Hügi,0,1,0,0
+1954,Uruguay,P-02079,Carlos Borges,1,0,0,0
+1954,Uruguay,P-09349,Obdulio Varela,1,0,0,0
+1954,Uruguay,P-08519,Juan Alberto Schiaffino,1,0,0,0
+1954,Uruguay,P-01170,Javier Ambrois,1,0,0,0
+1954,England,P-05298,Nat Lofthouse,0,1,0,0
+1954,England,P-03077,Tom Finney,0,1,0,0
+1954,Hungary,P-09699,Nándor Hidegkuti,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-04992,Mihály Lantos,1,0,0,1
+1954,Brazil,P-08651,Djalma Santos,0,1,0,1
+1954,Brazil,P-09713, Julinho,0,1,0,0
+1954,Germany,P-08148,Helmut Rahn,1,0,0,0
+1954,Yugoslavia,P-06792,Ivica Horvat,1,0,1,0
+1954,Hungary,P-00157,Zoltán Czibor,1,0,0,0
+1954,Hungary,P-09699,Nándor Hidegkuti,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Hungary,P-07498,Sándor Kocsis,1,0,0,0
+1954,Uruguay,P-07520,Juan Hohberg,0,1,0,0
+1954,Uruguay,P-07520,Juan Hohberg,0,1,0,0
+1954,Germany,P-09457,Hans Schäfer,1,0,0,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Germany,P-05420,Fritz Walter,1,0,0,1
+1954,Germany,P-05420,Fritz Walter,1,0,0,1
+1954,Germany,P-00546,Ottmar Walter,1,0,0,0
+1954,Germany,P-00546,Ottmar Walter,1,0,0,0
+1954,Austria,P-01943,Erich Probst,0,1,0,0
+1954,Austria,P-04091,Ernst Stojaspal,1,0,0,1
+1954,Austria,P-00335,Ernst Ocwirk,1,0,0,0
+1954,Uruguay,P-07520,Juan Hohberg,0,1,0,0
+1954,Uruguay,P-03966,Luis Cruz,1,0,1,0
+1954,Germany,P-01070,Max Morlock,1,0,0,0
+1954,Germany,P-08148,Helmut Rahn,1,0,0,0
+1954,Germany,P-08148,Helmut Rahn,1,0,0,0
+1954,Hungary,P-03793,Ferenc Puskás,0,1,0,0
+1954,Hungary,P-00157,Zoltán Czibor,0,1,0,0
+1958,Sweden,P-06078,Agne Simonsson,1,0,0,0
+1958,Sweden,P-06078,Agne Simonsson,1,0,0,0
+1958,Sweden,P-04687,Nils Liedholm,1,0,0,1
+1958,Argentina,P-00334,Oreste Corbatta,1,0,0,0
+1958,Germany,P-08148,Helmut Rahn,0,1,0,0
+1958,Germany,P-08148,Helmut Rahn,0,1,0,0
+1958,Germany,P-04896,Uwe Seeler,0,1,0,0
+1958,Northern Ireland,P-03481,Wilbur Cush,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-09663,Roger Piantoni,1,0,0,0
+1958,France,P-01776,Maryan Wisnieski,1,0,0,0
+1958,France,P-07100,Raymond Kopa,1,0,0,0
+1958,France,P-08257,Jean Vincent,1,0,0,0
+1958,Paraguay,P-07891,Florencio Amarilla,0,1,0,0
+1958,Paraguay,P-07891,Florencio Amarilla,0,1,0,1
+1958,Paraguay,P-00859,Jorge Lino Romero,0,1,0,0
+1958,Yugoslavia,P-00722,Aleksandar Petaković,1,0,0,0
+1958,Scotland,P-07617,Jimmy Murray,0,1,0,0
+1958,Hungary,P-00610,József Bozsik,1,0,0,0
+1958,Wales,P-04850,John Charles,0,1,0,0
+1958,Brazil,P-04236,José Altafini,1,0,0,0
+1958,Brazil,P-04236,José Altafini,1,0,0,0
+1958,Brazil,P-04894,Nílton Santos,1,0,0,0
+1958,Russia,P-06130,Nikita Simonyan,1,0,0,0
+1958,Russia,P-06857,Aleksandr Ivanov,1,0,0,0
+1958,England,P-07851,Derek Kevan,0,1,0,0
+1958,England,P-03077,Tom Finney,0,1,0,1
+1958,Argentina,P-00334,Oreste Corbatta,1,0,0,1
+1958,Argentina,P-04327,Norberto Menéndez,1,0,0,0
+1958,Argentina,P-02403,Ludovico Avio,1,0,0,0
+1958,Northern Ireland,P-09662,Peter McParland,0,1,0,0
+1958,Germany,P-09457,Hans Schäfer,1,0,0,0
+1958,Germany,P-08148,Helmut Rahn,1,0,0,0
+1958,Czechoslovakia,P-03577,Milan Dvořák,0,1,0,1
+1958,Czechoslovakia,P-00033,Zdeněk Zikán,0,1,0,0
+1958,Paraguay,P-09997,Juan Bautista Agüero,1,0,0,0
+1958,Paraguay,P-08154,Cayetano Ré,1,0,0,0
+1958,Paraguay,P-08476,José Parodi,1,0,0,0
+1958,Scotland,P-06392,Jackie Mudie,0,1,0,0
+1958,Scotland,P-09698,Bobby Collins,0,1,0,0
+1958,Yugoslavia,P-00722,Aleksandar Petaković,1,0,0,0
+1958,Yugoslavia,P-00923,Todor Veselinović,1,0,0,0
+1958,Yugoslavia,P-00923,Todor Veselinović,1,0,0,0
+1958,France,P-00643,Just Fontaine,0,1,0,0
+1958,France,P-00643,Just Fontaine,0,1,0,0
+1958,Mexico,P-04263,Jaime Belmonte,1,0,0,0
+1958,Wales,P-06738,Ivor Allchurch,0,1,0,0
+1958,Russia,P-05753,Anatoli Ilyin,1,0,0,0
+1958,Russia,P-03508,Valentin Ivanov,1,0,0,0
+1958,Sweden,P-06276,Kurt Hamrin,1,0,0,0
+1958,Sweden,P-06276,Kurt Hamrin,1,0,0,0
+1958,Hungary,P-03393,Lajos Tichy,0,1,0,0
+1958,Czechoslovakia,P-03577,Milan Dvořák,1,0,0,0
+1958,Czechoslovakia,P-00033,Zdeněk Zikán,1,0,0,0
+1958,Czechoslovakia,P-00033,Zdeněk Zikán,1,0,0,0
+1958,Czechoslovakia,P-00884,Jiří Feureisl,1,0,0,0
+1958,Czechoslovakia,P-05314,Václav Hovorka,1,0,0,0
+1958,Czechoslovakia,P-05314,Václav Hovorka,1,0,0,0
+1958,Argentina,P-00334,Oreste Corbatta,0,1,0,1
+1958,Germany,P-08148,Helmut Rahn,1,0,0,0
+1958,Germany,P-04896,Uwe Seeler,1,0,0,0
+1958,Northern Ireland,P-09662,Peter McParland,0,1,0,0
+1958,Northern Ireland,P-09662,Peter McParland,0,1,0,0
+1958,France,P-07100,Raymond Kopa,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,Scotland,P-03076,Sammy Baird,0,1,0,0
+1958,Paraguay,P-08476,José Parodi,1,0,0,0
+1958,Paraguay,P-09997,Juan Bautista Agüero,1,0,0,0
+1958,Paraguay,P-00859,Jorge Lino Romero,1,0,0,0
+1958,Yugoslavia,P-00185,Radivoje Ognjanović,0,1,0,0
+1958,Yugoslavia,P-00923,Todor Veselinović,0,1,0,0
+1958,Yugoslavia,P-00476,Zdravko Rajkov,0,1,0,0
+1958,Hungary,P-03393,Lajos Tichy,1,0,0,0
+1958,Hungary,P-03393,Lajos Tichy,1,0,0,0
+1958,Hungary,P-05727,Károly Sándor,1,0,0,0
+1958,Hungary,P-06412,József Bencsics,1,0,0,0
+1958,Brazil,P-01219, Vavá,1,0,0,0
+1958,Brazil,P-01219, Vavá,1,0,0,0
+1958,England,P-06181,Johnny Haynes,1,0,0,0
+1958,England,P-07851,Derek Kevan,1,0,0,0
+1958,Austria,P-04528,Karl Koller,0,1,0,0
+1958,Austria,P-01034,Alfred Körner,0,1,0,0
+1958,Northern Ireland,P-09662,Peter McParland,1,0,0,0
+1958,Northern Ireland,P-09662,Peter McParland,1,0,0,0
+1958,Czechoslovakia,P-00033,Zdeněk Zikán,0,1,0,0
+1958,Wales,P-06738,Ivor Allchurch,1,0,0,0
+1958,Wales,P-07511,Terry Medwin,1,0,0,0
+1958,Hungary,P-03393,Lajos Tichy,0,1,0,0
+1958,Russia,P-05753,Anatoli Ilyin,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,France,P-01776,Maryan Wisnieski,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-09663,Roger Piantoni,1,0,0,0
+1958,Sweden,P-06276,Kurt Hamrin,1,0,0,0
+1958,Sweden,P-06078,Agne Simonsson,1,0,0,0
+1958,Germany,P-08148,Helmut Rahn,1,0,0,0
+1958,Brazil,P-01219, Vavá,1,0,0,0
+1958,Brazil,P-09343, Didi,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,France,P-00643,Just Fontaine,0,1,0,0
+1958,France,P-09663,Roger Piantoni,0,1,0,0
+1958,Sweden,P-03611,Lennart Skoglund,1,0,0,0
+1958,Sweden,P-01255,Gunnar Gren,1,0,0,0
+1958,Sweden,P-06276,Kurt Hamrin,1,0,0,0
+1958,Germany,P-09457,Hans Schäfer,0,1,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-00643,Just Fontaine,1,0,0,0
+1958,France,P-07100,Raymond Kopa,1,0,0,1
+1958,France,P-00529,Yvon Douis,1,0,0,0
+1958,Germany,P-08089,Hans Cieslarczyk,0,1,0,0
+1958,Germany,P-08148,Helmut Rahn,0,1,0,0
+1958,Germany,P-09457,Hans Schäfer,0,1,0,0
+1958,Brazil,P-01219, Vavá,1,0,0,0
+1958,Brazil,P-01219, Vavá,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,Brazil,P-03795, Pelé,1,0,0,0
+1958,Brazil,P-07205,Mário Zagallo,1,0,0,0
+1958,Sweden,P-04687,Nils Liedholm,0,1,0,0
+1958,Sweden,P-06078,Agne Simonsson,0,1,0,0
+1962,Uruguay,P-05958,Luis Cubilla,1,0,0,0
+1962,Uruguay,P-07640,José Sasía,1,0,0,0
+1962,Colombia,P-04171,Francisco Zuluaga,0,1,0,1
+1962,Chile,P-06737,Leonel Sánchez,1,0,0,0
+1962,Chile,P-06737,Leonel Sánchez,1,0,0,0
+1962,Chile,P-05167,Jaime Ramírez,1,0,0,0
+1962,Switzerland,P-03394,Rolf Wüthrich,0,1,0,0
+1962,Brazil,P-07205,Mário Zagallo,1,0,0,0
+1962,Brazil,P-03795, Pelé,1,0,0,0
+1962,Argentina,P-01171,Héctor Facundo,1,0,0,0
+1962,Russia,P-03508,Valentin Ivanov,1,0,0,0
+1962,Russia,P-07969,Viktor Ponedelnik,1,0,0,0
+1962,Czechoslovakia,P-09744,Jozef Štibrányi,1,0,0,0
+1962,Hungary,P-03393,Lajos Tichy,1,0,0,0
+1962,Hungary,P-05509,Flórián Albert,1,0,0,0
+1962,England,P-07658,Ron Flowers,0,1,0,1
+1962,Yugoslavia,P-02360,Josip Skoblar,1,0,0,1
+1962,Yugoslavia,P-01407,Milan Galić,1,0,0,0
+1962,Yugoslavia,P-00009,Dražan Jerković,1,0,0,0
+1962,Uruguay,P-09550,Ángel Cabrera,0,1,0,0
+1962,Chile,P-05167,Jaime Ramírez,1,0,0,0
+1962,Chile,P-02219,Jorge Toro,1,0,0,0
+1962,England,P-07658,Ron Flowers,1,0,0,1
+1962,England,P-00227,Bobby Charlton,1,0,0,0
+1962,England,P-00423,Jimmy Greaves,1,0,0,0
+1962,Argentina,P-02950,José Sanfilippo,0,1,0,0
+1962,Russia,P-03508,Valentin Ivanov,1,0,0,0
+1962,Russia,P-03508,Valentin Ivanov,1,0,0,0
+1962,Russia,P-04699,Igor Chislenko,1,0,0,0
+1962,Russia,P-07969,Viktor Ponedelnik,1,0,0,0
+1962,Colombia,P-03927,Germán Aceros,0,1,0,0
+1962,Colombia,P-09847,Marcos Coll,0,1,0,0
+1962,Colombia,P-05353,Antonio Rada,0,1,0,0
+1962,Colombia,P-01551,Marino Klinger,0,1,0,0
+1962,Germany,P-00943,Albert Brülls,1,0,0,0
+1962,Germany,P-04896,Uwe Seeler,1,0,0,0
+1962,Switzerland,P-06714,Heinz Schneiter,0,1,0,0
+1962,Spain,P-09918,Joaquín Peiró,1,0,0,0
+1962,Hungary,P-05509,Flórián Albert,1,0,0,0
+1962,Hungary,P-05509,Flórián Albert,1,0,0,0
+1962,Hungary,P-05509,Flórián Albert,1,0,0,0
+1962,Hungary,P-03393,Lajos Tichy,1,0,0,0
+1962,Hungary,P-03393,Lajos Tichy,1,0,0,0
+1962,Hungary,P-02463,Ernő Solymosi,1,0,0,0
+1962,Bulgaria,P-06585,Georgi Sokolov,0,1,0,0
+1962,Russia,P-06427,Aleksei Mamykin,1,0,0,0
+1962,Russia,P-03508,Valentin Ivanov,1,0,0,0
+1962,Uruguay,P-07640,José Sasía,0,1,0,0
+1962,Germany,P-08942,Horst Szymaniak,1,0,0,1
+1962,Germany,P-04896,Uwe Seeler,1,0,0,0
+1962,Brazil,P-09951, Amarildo,1,0,0,0
+1962,Brazil,P-09951, Amarildo,1,0,0,0
+1962,Spain,P-06220, Adelardo,0,1,0,0
+1962,Yugoslavia,P-01407,Milan Galić,1,0,0,0
+1962,Yugoslavia,P-01407,Milan Galić,1,0,0,0
+1962,Yugoslavia,P-00009,Dražan Jerković,1,0,0,0
+1962,Yugoslavia,P-00009,Dražan Jerković,1,0,0,0
+1962,Yugoslavia,P-05325,Vojislav Melić,1,0,0,0
+1962,Italy,P-08455,Bruno Mora,1,0,0,0
+1962,Italy,P-08245,Giacomo Bulgarelli,1,0,0,0
+1962,Italy,P-08245,Giacomo Bulgarelli,1,0,0,0
+1962,Mexico,P-02774,Isidoro Díaz,1,0,0,0
+1962,Mexico,P-08837,Alfredo del Águila,1,0,0,0
+1962,Mexico,P-07709,Héctor Hernández,1,0,0,1
+1962,Czechoslovakia,P-04294,Václav Mašek,0,1,0,0
+1962,Brazil,P-04025, Garrincha,1,0,0,0
+1962,Brazil,P-04025, Garrincha,1,0,0,0
+1962,Brazil,P-01219, Vavá,1,0,0,0
+1962,England,P-00121,Gerry Hitchens,0,1,0,0
+1962,Chile,P-06737,Leonel Sánchez,1,0,0,0
+1962,Chile,P-06161,Eladio Rojas,1,0,0,0
+1962,Russia,P-04699,Igor Chislenko,0,1,0,0
+1962,Czechoslovakia,P-05183,Adolf Scherer,1,0,0,0
+1962,Yugoslavia,P-06222,Petar Radaković,1,0,0,0
+1962,Brazil,P-04025, Garrincha,1,0,0,0
+1962,Brazil,P-04025, Garrincha,1,0,0,0
+1962,Brazil,P-01219, Vavá,1,0,0,0
+1962,Brazil,P-01219, Vavá,1,0,0,0
+1962,Chile,P-02219,Jorge Toro,0,1,0,0
+1962,Chile,P-06737,Leonel Sánchez,0,1,0,1
+1962,Czechoslovakia,P-00239,Josef Kadraba,1,0,0,0
+1962,Czechoslovakia,P-05183,Adolf Scherer,1,0,0,0
+1962,Czechoslovakia,P-05183,Adolf Scherer,1,0,0,1
+1962,Yugoslavia,P-00009,Dražan Jerković,0,1,0,0
+1962,Chile,P-06161,Eladio Rojas,1,0,0,0
+1962,Brazil,P-09951, Amarildo,1,0,0,0
+1962,Brazil,P-07351, Zito,1,0,0,0
+1962,Brazil,P-01219, Vavá,1,0,0,0
+1962,Czechoslovakia,P-07840,Josef Masopust,0,1,0,0
+1966,Germany,P-00407,Sigfried Held,1,0,0,0
+1966,Germany,P-08039,Helmut Haller,1,0,0,0
+1966,Germany,P-08039,Helmut Haller,1,0,0,1
+1966,Germany,P-04356,Franz Beckenbauer,1,0,0,0
+1966,Germany,P-04356,Franz Beckenbauer,1,0,0,0
+1966,Brazil,P-03795, Pelé,1,0,0,0
+1966,Brazil,P-04025, Garrincha,1,0,0,0
+1966,Russia,P-03807,Eduard Malofeyev,1,0,0,0
+1966,Russia,P-03807,Eduard Malofeyev,1,0,0,0
+1966,Russia,P-08234,Anatoliy Banishevskiy,1,0,0,0
+1966,France,P-06762,Gérard Hausser,1,0,0,0
+1966,Mexico,P-08563,Enrique Borja,0,1,0,0
+1966,Argentina,P-04225,Luis Artime,1,0,0,0
+1966,Argentina,P-04225,Luis Artime,1,0,0,0
+1966,Spain,P-03074, Pirri,0,1,0,0
+1966,Portugal,P-04280,José Augusto,1,0,0,0
+1966,Portugal,P-04280,José Augusto,1,0,0,0
+1966,Portugal,P-06238,José Torres,1,0,0,0
+1966,Hungary,P-02995,Ferenc Bene,0,1,0,0
+1966,Italy,P-09477,Sandro Mazzola,1,0,0,0
+1966,Italy,P-04647,Paolo Barison,1,0,0,0
+1966,Uruguay,P-05145,Pedro Rocha,1,0,0,0
+1966,Uruguay,P-08635,Julio César Cortés,1,0,0,0
+1966,France,P-02009,Héctor De Bourgoing,0,1,0,1
+1966,Spain,P-07131,Manuel Sanchís,1,0,0,0
+1966,Spain,P-07526, Amancio,1,0,0,0
+1966,Switzerland,P-07846,René-Pierre Quentin,0,1,0,0
+1966,Hungary,P-02995,Ferenc Bene,1,0,0,0
+1966,Hungary,P-06508,János Farkas,1,0,0,0
+1966,Hungary,P-01793,Kálmán Mészöly,1,0,0,1
+1966,Brazil,P-01461, Tostão,0,1,0,0
+1966,Chile,P-06536,Rubén Marcos,1,0,0,1
+1966,North Korea,P-07378,Seung-zin Pak,0,1,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,0
+1966,Portugal,P-06238,José Torres,1,0,0,0
+1966,Bulgaria,P-08517,Ivan Vutsov,1,0,1,0
+1966,Russia,P-04699,Igor Chislenko,1,0,0,0
+1966,England,P-00227,Bobby Charlton,1,0,0,0
+1966,England,P-01893,Roger Hunt,1,0,0,0
+1966,Argentina,P-04225,Luis Artime,1,0,0,0
+1966,Argentina,P-08731,Ermindo Onega,1,0,0,0
+1966,Portugal,P-07450,António Simões,1,0,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,0
+1966,Brazil,P-03172, Rildo,0,1,0,0
+1966,North Korea,P-07496,Doo-ik Pak,1,0,0,0
+1966,England,P-01893,Roger Hunt,1,0,0,0
+1966,England,P-01893,Roger Hunt,1,0,0,0
+1966,Germany,P-00058,Lothar Emmerich,1,0,0,0
+1966,Germany,P-04896,Uwe Seeler,1,0,0,0
+1966,Spain,P-08506,Josep Maria Fusté,0,1,0,0
+1966,Hungary,P-01793,Kálmán Mészöly,1,0,0,0
+1966,Hungary,P-02995,Ferenc Bene,1,0,0,0
+1966,Bulgaria,P-06361,Georgi Asparuhov,0,1,0,0
+1966,Bulgaria,P-08049,Ivan Davidov,1,0,1,0
+1966,Russia,P-06927,Valeriy Porkujan,1,0,0,0
+1966,Russia,P-06927,Valeriy Porkujan,1,0,0,0
+1966,Chile,P-06536,Rubén Marcos,0,1,0,0
+1966,England,P-03234,Geoff Hurst,1,0,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,1
+1966,Portugal,P-01633, Eusébio,1,0,0,0
+1966,Portugal,P-01633, Eusébio,1,0,0,1
+1966,Portugal,P-04280,José Augusto,1,0,0,0
+1966,North Korea,P-07378,Seung-zin Pak,0,1,0,0
+1966,North Korea,P-03904,Dong-woon Li,0,1,0,0
+1966,North Korea,P-07632,Seung-kook Yang,0,1,0,0
+1966,Russia,P-04699,Igor Chislenko,1,0,0,0
+1966,Russia,P-06927,Valeriy Porkujan,1,0,0,0
+1966,Hungary,P-02995,Ferenc Bene,0,1,0,0
+1966,Germany,P-08039,Helmut Haller,1,0,0,0
+1966,Germany,P-08039,Helmut Haller,1,0,0,0
+1966,Germany,P-04356,Franz Beckenbauer,1,0,0,0
+1966,Germany,P-04896,Uwe Seeler,1,0,0,0
+1966,Germany,P-08039,Helmut Haller,1,0,0,0
+1966,Germany,P-04356,Franz Beckenbauer,1,0,0,0
+1966,Russia,P-06927,Valeriy Porkujan,0,1,0,0
+1966,England,P-00227,Bobby Charlton,1,0,0,0
+1966,England,P-00227,Bobby Charlton,1,0,0,0
+1966,Portugal,P-01633, Eusébio,0,1,0,1
+1966,Portugal,P-01633, Eusébio,1,0,0,1
+1966,Portugal,P-06238,José Torres,1,0,0,0
+1966,Russia,P-03807,Eduard Malofeyev,0,1,0,0
+1966,England,P-03234,Geoff Hurst,1,0,0,0
+1966,England,P-03234,Geoff Hurst,1,0,0,0
+1966,England,P-03234,Geoff Hurst,1,0,0,0
+1966,England,P-01405,Martin Peters,1,0,0,0
+1966,Germany,P-08039,Helmut Haller,0,1,0,0
+1966,Germany,P-01433,Wolfgang Weber,0,1,0,0
+1970,Uruguay,P-06360,Ildo Maneiro,1,0,0,0
+1970,Uruguay,P-02448,Juan Mujica,1,0,0,0
+1970,England,P-03234,Geoff Hurst,1,0,0,0
+1970,Peru,P-02248,Alberto Gallardo,1,0,0,0
+1970,Peru,P-08318,Héctor Chumpitaz,1,0,0,0
+1970,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1970,Bulgaria,P-03135,Dinko Dermendzhiev,0,1,0,0
+1970,Bulgaria,P-02078,Hristo Bonev,0,1,0,0
+1970,Belgium,P-02611,Wilfried Van Moer,1,0,0,0
+1970,Belgium,P-02611,Wilfried Van Moer,1,0,0,0
+1970,Belgium,P-08487,Raoul Lambert,1,0,0,1
+1970,Italy,P-01538,Angelo Domenghini,1,0,0,0
+1970,Brazil,P-08138, Rivellino,1,0,0,0
+1970,Brazil,P-03795, Pelé,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Czechoslovakia,P-09661,Ladislav Petráš,0,1,0,0
+1970,Germany,P-04896,Uwe Seeler,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Morocco,P-06106,Houmane Jarir,0,1,0,0
+1970,Russia,P-07069,Anatoliy Byshovets,1,0,0,0
+1970,Russia,P-07069,Anatoliy Byshovets,1,0,0,0
+1970,Russia,P-07448,Kakhi Asatiani,1,0,0,0
+1970,Russia,P-09955,Vitaly Khmelnitsky,1,0,0,0
+1970,Belgium,P-08487,Raoul Lambert,0,1,0,0
+1970,Romania,P-09792,Alexandru Neagu,1,0,0,0
+1970,Romania,P-04515,Florea Dumitrache,1,0,0,1
+1970,Czechoslovakia,P-09661,Ladislav Petráš,0,1,0,0
+1970,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1970,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1970,Peru,P-05315,Roberto Challe,1,0,0,0
+1970,Mexico,P-07033,Javier Valdivia,1,0,0,0
+1970,Mexico,P-07033,Javier Valdivia,1,0,0,0
+1970,Mexico,P-04083,Javier Fragoso,1,0,0,0
+1970,Mexico,P-06644,Juan Ignacio Basaguren,1,0,0,0
+1970,Sweden,P-03830,Tom Turesson,1,0,0,0
+1970,Israel,P-04002,Mordechai Spiegler,0,1,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Germany,P-02712,Reinhard Libuda,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,1
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Germany,P-04896,Uwe Seeler,1,0,0,0
+1970,Bulgaria,P-06919,Asparuh Nikodimov,0,1,0,0
+1970,Bulgaria,P-07997,Todor Kolev,0,1,0,0
+1970,Russia,P-07069,Anatoliy Byshovets,1,0,0,0
+1970,Russia,P-07069,Anatoliy Byshovets,1,0,0,0
+1970,Sweden,P-00726,Ove Grahn,1,0,0,0
+1970,Brazil,P-03795, Pelé,1,0,0,0
+1970,Brazil,P-03795, Pelé,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Romania,P-04515,Florea Dumitrache,0,1,0,0
+1970,Romania,P-09452,Emerich Dembrovschi,0,1,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,Peru,P-01348,Teófilo Cubillas,0,1,0,0
+1970,Mexico,P-09033,Gustavo Peña,1,0,0,1
+1970,England,P-03656,Allan Clarke,1,0,0,1
+1970,Bulgaria,P-04634,Dobromir Zhechev,1,0,0,0
+1970,Morocco,P-09904,Maouhoub Ghazouani,0,1,0,0
+1970,Brazil,P-08138, Rivellino,1,0,0,0
+1970,Brazil,P-01461, Tostão,1,0,0,0
+1970,Brazil,P-01461, Tostão,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Peru,P-02248,Alberto Gallardo,0,1,0,0
+1970,Peru,P-01348,Teófilo Cubillas,0,1,0,0
+1970,Italy,P-04465,Gigi Riva,1,0,0,0
+1970,Italy,P-04465,Gigi Riva,1,0,0,0
+1970,Italy,P-05966,Gianni Rivera,1,0,0,0
+1970,Mexico,P-00763,José Luis González,0,1,0,0
+1970,Mexico,P-01353,Javier Guzmán,1,0,1,0
+1970,Uruguay,P-06766,Víctor Espárrago,0,1,0,0
+1970,Germany,P-04356,Franz Beckenbauer,1,0,0,0
+1970,Germany,P-04896,Uwe Seeler,1,0,0,0
+1970,Germany,P-02483,Gerd Müller,1,0,0,0
+1970,England,P-01041,Alan Mullery,0,1,0,0
+1970,England,P-01405,Martin Peters,0,1,0,0
+1970,Brazil,P-04805, Clodoaldo,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Brazil,P-08138, Rivellino,1,0,0,0
+1970,Uruguay,P-05958,Luis Cubilla,0,1,0,0
+1970,Italy,P-08646,Roberto Boninsegna,1,0,0,0
+1970,Italy,P-00130,Tarcisio Burgnich,1,0,0,0
+1970,Italy,P-04465,Gigi Riva,1,0,0,0
+1970,Italy,P-05966,Gianni Rivera,1,0,0,0
+1970,Germany,P-06318,Karl-Heinz Schnellinger,0,1,0,0
+1970,Germany,P-02483,Gerd Müller,0,1,0,0
+1970,Germany,P-02483,Gerd Müller,0,1,0,0
+1970,Germany,P-01728,Wolfgang Overath,1,0,0,0
+1970,Brazil,P-03795, Pelé,1,0,0,0
+1970,Brazil,P-03612, Gérson,1,0,0,0
+1970,Brazil,P-07877, Jairzinho,1,0,0,0
+1970,Brazil,P-02917,Carlos Alberto,1,0,0,0
+1970,Italy,P-08646,Roberto Boninsegna,0,1,0,0
+1974,Germany,P-02216,Paul Breitner,1,0,0,0
+1974,Germany,P-03168,Joachim Streich,1,0,0,0
+1974,Australia,P-01029,Colin Curran,1,0,1,0
+1974,Scotland,P-09399,Peter Lorimer,0,1,0,0
+1974,Scotland,P-05720,Joe Jordan,0,1,0,0
+1974,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1974,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1974,Italy,P-05966,Gianni Rivera,1,0,0,0
+1974,Italy,P-08612,Romeo Benetti,1,0,0,0
+1974,Italy,P-03727,Pietro Anastasi,1,0,0,0
+1974,Haiti,P-00406,Emmanuel Sanon,0,1,0,0
+1974,Poland,P-07200,Grzegorz Lato,1,0,0,0
+1974,Poland,P-07200,Grzegorz Lato,1,0,0,0
+1974,Poland,P-00830,Andrzej Szarmach,1,0,0,0
+1974,Argentina,P-08315,Ramón Heredia,0,1,0,0
+1974,Argentina,P-04660,Carlos Babington,0,1,0,0
+1974,Germany,P-01728,Wolfgang Overath,0,1,0,0
+1974,Germany,P-05060,Bernhard Cullmann,0,1,0,0
+1974,Germany,P-02483,Gerd Müller,0,1,0,0
+1974,Chile,P-01444,Sergio Ahumada,1,0,0,0
+1974,Germany,P-08802,Martin Hoffmann,0,1,0,0
+1974,Yugoslavia,P-09420,Dušan Bajević,1,0,0,0
+1974,Yugoslavia,P-09420,Dušan Bajević,1,0,0,0
+1974,Yugoslavia,P-09420,Dušan Bajević,1,0,0,0
+1974,Yugoslavia,P-04417,Dragan Džajić,1,0,0,0
+1974,Yugoslavia,P-04912,Ivica Šurjak,1,0,0,0
+1974,Yugoslavia,P-06853,Josip Katalinski,1,0,0,0
+1974,Yugoslavia,P-00654,Vladislav Bogićević,1,0,0,0
+1974,Yugoslavia,P-08734,Branko Oblak,1,0,0,0
+1974,Yugoslavia,P-07052,Ilija Petković,1,0,0,0
+1974,Bulgaria,P-02078,Hristo Bonev,1,0,0,0
+1974,Uruguay,P-03113,Ricardo Pavoni,0,1,0,0
+1974,Argentina,P-01388,René Houseman,1,0,0,0
+1974,Argentina,P-02147,Roberto Perfumo,0,1,1,0
+1974,Poland,P-07200,Grzegorz Lato,0,1,0,0
+1974,Poland,P-07200,Grzegorz Lato,0,1,0,0
+1974,Poland,P-08763,Kazimierz Deyna,0,1,0,0
+1974,Poland,P-00830,Andrzej Szarmach,0,1,0,0
+1974,Poland,P-00830,Andrzej Szarmach,0,1,0,0
+1974,Poland,P-00830,Andrzej Szarmach,0,1,0,0
+1974,Poland,P-02273,Jerzy Gorgoń,0,1,0,0
+1974,Scotland,P-05720,Joe Jordan,1,0,0,0
+1974,Yugoslavia,P-01252,Stanislav Karasi,0,1,0,0
+1974,Brazil,P-07877, Jairzinho,0,1,0,0
+1974,Brazil,P-08138, Rivellino,0,1,0,0
+1974,Brazil,P-03797, Valdomiro,0,1,0,0
+1974,Germany,P-02636,Jürgen Sparwasser,1,0,0,0
+1974,Netherlands,P-07695,Johan Neeskens,0,1,0,1
+1974,Netherlands,P-07695,Johan Neeskens,0,1,0,1
+1974,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1974,Netherlands,P-01173,Theo de Jong,0,1,0,0
+1974,Netherlands,P-02465,Ruud Krol,1,0,1,0
+1974,Sweden,P-05385,Ralf Edström,1,0,0,0
+1974,Sweden,P-05385,Ralf Edström,1,0,0,0
+1974,Sweden,P-08549,Roland Sandberg,1,0,0,0
+1974,Argentina,P-07742,Héctor Yazalde,1,0,0,0
+1974,Argentina,P-07742,Héctor Yazalde,1,0,0,0
+1974,Argentina,P-01388,René Houseman,1,0,0,0
+1974,Argentina,P-03494,Rubén Ayala,1,0,0,0
+1974,Haiti,P-00406,Emmanuel Sanon,0,1,0,0
+1974,Poland,P-00830,Andrzej Szarmach,1,0,0,0
+1974,Poland,P-08763,Kazimierz Deyna,1,0,0,0
+1974,Italy,P-07878,Fabio Capello,0,1,0,0
+1974,Germany,P-02216,Paul Breitner,0,1,0,0
+1974,Germany,P-02483,Gerd Müller,0,1,0,0
+1974,Brazil,P-08138, Rivellino,1,0,0,0
+1974,Netherlands,P-04432,Johan Cruyff,1,0,0,0
+1974,Netherlands,P-04432,Johan Cruyff,1,0,0,0
+1974,Netherlands,P-02465,Ruud Krol,1,0,0,0
+1974,Netherlands,P-02210,Johnny Rep,1,0,0,0
+1974,Poland,P-07200,Grzegorz Lato,0,1,0,0
+1974,Argentina,P-04193,Miguel Ángel Brindisi,1,0,0,0
+1974,Brazil,P-08138, Rivellino,0,1,0,0
+1974,Brazil,P-07877, Jairzinho,0,1,0,0
+1974,Netherlands,P-07695,Johan Neeskens,0,1,0,0
+1974,Netherlands,P-07325,Rob Rensenbrink,0,1,0,0
+1974,Poland,P-08763,Kazimierz Deyna,1,0,0,1
+1974,Poland,P-07200,Grzegorz Lato,1,0,0,0
+1974,Yugoslavia,P-01252,Stanislav Karasi,0,1,0,0
+1974,Germany,P-01728,Wolfgang Overath,1,0,0,0
+1974,Germany,P-05466,Rainer Bonhof,1,0,0,0
+1974,Germany,P-05887,Jürgen Grabowski,1,0,0,0
+1974,Germany,P-09543,Uli Hoeneß,1,0,0,1
+1974,Sweden,P-05385,Ralf Edström,0,1,0,0
+1974,Sweden,P-08549,Roland Sandberg,0,1,0,0
+1974,Germany,P-02483,Gerd Müller,0,1,0,0
+1974,Argentina,P-01388,René Houseman,1,0,0,0
+1974,Germany,P-03168,Joachim Streich,0,1,0,0
+1974,Netherlands,P-07695,Johan Neeskens,1,0,0,0
+1974,Netherlands,P-04432,Johan Cruyff,1,0,0,0
+1974,Sweden,P-05385,Ralf Edström,1,0,0,0
+1974,Sweden,P-07472,Conny Torstensson,1,0,0,0
+1974,Yugoslavia,P-04912,Ivica Šurjak,0,1,0,0
+1974,Poland,P-07200,Grzegorz Lato,0,1,0,0
+1974,Netherlands,P-07695,Johan Neeskens,1,0,0,1
+1974,Germany,P-02216,Paul Breitner,0,1,0,1
+1974,Germany,P-02483,Gerd Müller,0,1,0,0
+1978,Italy,P-08703,Paolo Rossi,1,0,0,0
+1978,Italy,P-07176,Renato Zaccarelli,1,0,0,0
+1978,France,P-02000,Bernard Lacombe,0,1,0,0
+1978,Tunisia,P-07717,Ali Kaabi,1,0,0,0
+1978,Tunisia,P-02826,Néjib Ghommidh,1,0,0,0
+1978,Tunisia,P-03642,Mokhtar Dhouib,1,0,0,0
+1978,Mexico,P-07268,Arturo Vázquez Ayala,0,1,0,1
+1978,Argentina,P-00328,Leopoldo Luque,1,0,0,0
+1978,Argentina,P-05050,Daniel Bertoni,1,0,0,0
+1978,Hungary,P-08066,Károly Csapó,0,1,0,0
+1978,Austria,P-02601,Walter Schachner,1,0,0,0
+1978,Austria,P-06890,Hans Krankl,1,0,0,0
+1978,Spain,P-08401, Dani,0,1,0,0
+1978,Brazil,P-08877, Reinaldo,1,0,0,0
+1978,Sweden,P-01558,Thomas Sjöberg,0,1,0,0
+1978,Netherlands,P-07325,Rob Rensenbrink,1,0,0,1
+1978,Netherlands,P-07325,Rob Rensenbrink,1,0,0,0
+1978,Netherlands,P-07325,Rob Rensenbrink,1,0,0,1
+1978,Peru,P-07344,César Cueto,1,0,0,0
+1978,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1978,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1978,Scotland,P-05720,Joe Jordan,0,1,0,0
+1978,Italy,P-08703,Paolo Rossi,1,0,0,0
+1978,Italy,P-02699,Roberto Bettega,1,0,0,0
+1978,Italy,P-08612,Romeo Benetti,1,0,0,0
+1978,Hungary,P-03030,András Tóth,0,1,0,1
+1978,Poland,P-07200,Grzegorz Lato,1,0,0,0
+1978,Germany,P-00538,Dieter Müller,1,0,0,0
+1978,Germany,P-07727,Hansi Müller,1,0,0,0
+1978,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1978,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1978,Germany,P-02716,Heinz Flohe,1,0,0,0
+1978,Germany,P-02716,Heinz Flohe,1,0,0,0
+1978,Argentina,P-00705,Daniel Passarella,1,0,0,1
+1978,Argentina,P-00328,Leopoldo Luque,1,0,0,0
+1978,France,P-07530,Michel Platini,0,1,0,0
+1978,Austria,P-06890,Hans Krankl,1,0,0,1
+1978,Iran,P-02042,Iraj Danaeifard,0,1,0,0
+1978,Iran,P-07254,Andranik Eskandarian,1,0,1,0
+1978,France,P-03471,Christian Lopez,1,0,0,0
+1978,France,P-07675,Marc Berdoll,1,0,0,0
+1978,France,P-00360,Dominique Rocheteau,1,0,0,0
+1978,Hungary,P-06710,Sándor Zombori,0,1,0,0
+1978,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1978,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1978,Poland,P-08763,Kazimierz Deyna,1,0,0,0
+1978,Mexico,P-01420,Víctor Rangel,0,1,0,0
+1978,Italy,P-02699,Roberto Bettega,0,1,0,0
+1978,Brazil,P-06608,Roberto Dinamite,1,0,0,0
+1978,Spain,P-02795,Juan Manuel Asensi,1,0,0,0
+1978,Peru,P-01919,José Velásquez,1,0,0,0
+1978,Peru,P-01348,Teófilo Cubillas,1,0,0,1
+1978,Peru,P-01348,Teófilo Cubillas,1,0,0,1
+1978,Peru,P-01348,Teófilo Cubillas,1,0,0,0
+1978,Iran,P-00304,Hassan Roshan,0,1,0,0
+1978,Scotland,P-04509,Kenny Dalglish,1,0,0,0
+1978,Scotland,P-04060,Archie Gemmill,1,0,0,1
+1978,Scotland,P-04060,Archie Gemmill,1,0,0,0
+1978,Netherlands,P-07325,Rob Rensenbrink,0,1,0,1
+1978,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1978,Austria,P-05506,Erich Obermayer,1,0,0,0
+1978,Netherlands,P-03043,Ernie Brandts,0,1,0,0
+1978,Netherlands,P-07325,Rob Rensenbrink,0,1,0,1
+1978,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1978,Netherlands,P-02210,Johnny Rep,0,1,0,0
+1978,Netherlands,P-03042,Willy van de Kerkhof,0,1,0,0
+1978,Brazil,P-02014, Dirceu,1,0,0,0
+1978,Brazil,P-02014, Dirceu,1,0,0,0
+1978,Brazil,P-03653, Zico,1,0,0,1
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Poland,P-00830,Andrzej Szarmach,0,1,0,0
+1978,Italy,P-08703,Paolo Rossi,1,0,0,0
+1978,Netherlands,P-09366,Arie Haan,1,0,0,0
+1978,Netherlands,P-02579,René van de Kerkhof,1,0,0,0
+1978,Germany,P-03561,Rüdiger Abramczik,0,1,0,0
+1978,Germany,P-00538,Dieter Müller,0,1,0,0
+1978,Austria,P-06890,Hans Krankl,1,0,0,0
+1978,Austria,P-06890,Hans Krankl,1,0,0,0
+1978,Germany,P-08975,Karl-Heinz Rummenigge,0,1,0,0
+1978,Germany,P-03861,Bernd Hölzenbein,0,1,0,0
+1978,Germany,P-00329,Berti Vogts,1,0,1,0
+1978,Netherlands,P-03043,Ernie Brandts,0,1,0,0
+1978,Netherlands,P-09366,Arie Haan,0,1,0,0
+1978,Netherlands,P-03043,Ernie Brandts,1,0,1,0
+1978,Brazil,P-08465, Nelinho,1,0,0,0
+1978,Brazil,P-06608,Roberto Dinamite,1,0,0,0
+1978,Brazil,P-06608,Roberto Dinamite,1,0,0,0
+1978,Poland,P-07200,Grzegorz Lato,0,1,0,0
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Argentina,P-06305,Alberto Tarantini,1,0,0,0
+1978,Argentina,P-00328,Leopoldo Luque,1,0,0,0
+1978,Argentina,P-00328,Leopoldo Luque,1,0,0,0
+1978,Argentina,P-01388,René Houseman,1,0,0,0
+1978,Brazil,P-08465, Nelinho,1,0,0,0
+1978,Brazil,P-02014, Dirceu,1,0,0,0
+1978,Italy,P-01918,Franco Causio,0,1,0,0
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Argentina,P-07202,Mario Kempes,1,0,0,0
+1978,Argentina,P-05050,Daniel Bertoni,1,0,0,0
+1978,Netherlands,P-05468,Dick Nanninga,0,1,0,0
+1982,Belgium,P-03124,Erwin Vandenbergh,0,1,0,0
+1982,Brazil,P-03716, Sócrates,1,0,0,0
+1982,Brazil,P-05515, Éder,1,0,0,0
+1982,Russia,P-03268,Andriy Bal,0,1,0,0
+1982,Hungary,P-01344,Tibor Nyilasi,1,0,0,0
+1982,Hungary,P-01344,Tibor Nyilasi,1,0,0,0
+1982,Hungary,P-06199,Gábor Pölöskei,1,0,0,0
+1982,Hungary,P-07494,László Fazekas,1,0,0,0
+1982,Hungary,P-07494,László Fazekas,1,0,0,0
+1982,Hungary,P-06824,József Tóth,1,0,0,0
+1982,Hungary,P-04758,László Kiss,1,0,0,0
+1982,Hungary,P-04758,László Kiss,1,0,0,0
+1982,Hungary,P-04758,László Kiss,1,0,0,0
+1982,Hungary,P-04097,Lázár Szentes,1,0,0,0
+1982,El Salvador,P-02077,Luis Ramírez Zapata,0,1,0,0
+1982,Scotland,P-04509,Kenny Dalglish,1,0,0,0
+1982,Scotland,P-01654,John Wark,1,0,0,0
+1982,Scotland,P-01654,John Wark,1,0,0,0
+1982,Scotland,P-07209,John Robertson,1,0,0,0
+1982,Scotland,P-06886,Steve Archibald,1,0,0,0
+1982,New Zealand,P-05984,Steve Sumner,0,1,0,0
+1982,New Zealand,P-06482,Steve Wooddin,0,1,0,0
+1982,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1982,Algeria,P-05987,Rabah Madjer,0,1,0,0
+1982,Algeria,P-06826,Lakhdar Belloumi,0,1,0,0
+1982,England,P-01902,Bryan Robson,1,0,0,0
+1982,England,P-01902,Bryan Robson,1,0,0,0
+1982,England,P-05041,Paul Mariner,1,0,0,0
+1982,France,P-09901,Gérard Soler,0,1,0,0
+1982,Spain,P-02912,Roberto López Ufarte,1,0,0,1
+1982,Honduras,P-09011,Héctor Zelaya,0,1,0,0
+1982,Austria,P-02601,Walter Schachner,0,1,0,0
+1982,Czechoslovakia,P-07198,Antonín Panenka,1,0,0,1
+1982,Kuwait,P-06167,Faisal Al-Dakhil,0,1,0,0
+1982,Italy,P-00500,Bruno Conti,1,0,0,0
+1982,Peru,P-09739,Rubén Toribio Díaz,0,1,0,0
+1982,Argentina,P-05050,Daniel Bertoni,1,0,0,0
+1982,Argentina,P-06516,Diego Maradona,1,0,0,0
+1982,Argentina,P-06516,Diego Maradona,1,0,0,0
+1982,Argentina,P-06578,Osvaldo Ardiles,1,0,0,0
+1982,Hungary,P-06199,Gábor Pölöskei,0,1,0,0
+1982,Brazil,P-03653, Zico,1,0,0,0
+1982,Brazil,P-00869, Oscar,1,0,0,0
+1982,Brazil,P-05515, Éder,1,0,0,0
+1982,Brazil,P-05820, Falcão,1,0,0,0
+1982,Scotland,P-00355,David Narey,0,1,0,0
+1982,Belgium,P-07546,Ludo Coeck,1,0,0,0
+1982,Russia,P-02943,Yuri Gavrilov,1,0,0,0
+1982,Russia,P-01271,Oleh Blokhin,1,0,0,0
+1982,Russia,P-03384,Sergei Baltacha,1,0,0,0
+1982,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1982,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1982,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1982,Germany,P-03995,Uwe Reinders,1,0,0,0
+1982,Chile,P-02155,Gustavo Moscoso,0,1,0,0
+1982,England,P-01938,Trevor Francis,1,0,0,0
+1982,Czechoslovakia,P-04963,Jozef Barmoš,1,0,1,0
+1982,Spain,P-08436, Juanito,1,0,0,1
+1982,Spain,P-02836,Enrique Saura,1,0,0,0
+1982,Yugoslavia,P-04224,Ivan Gudelj,0,1,0,0
+1982,Austria,P-02601,Walter Schachner,0,1,0,0
+1982,Austria,P-06890,Hans Krankl,0,1,0,0
+1982,France,P-08166,Bernard Genghini,1,0,0,0
+1982,France,P-07530,Michel Platini,1,0,0,0
+1982,France,P-00182,Didier Six,1,0,0,0
+1982,France,P-05135,Maxime Bossis,1,0,0,0
+1982,Kuwait,P-01258,Abdullah Al-Buloushi,0,1,0,0
+1982,Honduras,P-09045,Antonio Laing,1,0,0,0
+1982,Northern Ireland,P-01384,Gerry Armstrong,0,1,0,0
+1982,Poland,P-02033,Włodzimierz Smolarek,1,0,0,0
+1982,Poland,P-07200,Grzegorz Lato,1,0,0,0
+1982,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1982,Poland,P-06717,Andrzej Buncol,1,0,0,0
+1982,Poland,P-08965,Włodzimierz Ciołek,1,0,0,0
+1982,Peru,P-06049,Guillermo La Rosa,0,1,0,0
+1982,Belgium,P-04832,Alexandre Czerniatynski,1,0,0,0
+1982,Hungary,P-07964,József Varga,0,1,0,0
+1982,Russia,P-07281,Aleksandr Chivadze,1,0,0,0
+1982,Russia,P-09762,Ramaz Shengelia,1,0,0,0
+1982,Scotland,P-05720,Joe Jordan,0,1,0,0
+1982,Scotland,P-09225,Graeme Souness,0,1,0,0
+1982,Italy,P-01606,Francesco Graziani,1,0,0,0
+1982,Cameroon,P-00607,Grégoire M'Bida,0,1,0,0
+1982,Argentina,P-00705,Daniel Passarella,1,0,0,1
+1982,Argentina,P-05050,Daniel Bertoni,1,0,0,0
+1982,Brazil,P-03653, Zico,1,0,0,0
+1982,Brazil,P-03653, Zico,1,0,0,0
+1982,Brazil,P-05820, Falcão,1,0,0,0
+1982,Brazil,P-06564, Serginho,1,0,0,0
+1982,Algeria,P-04611,Salah Assad,1,0,0,0
+1982,Algeria,P-04611,Salah Assad,1,0,0,0
+1982,Algeria,P-07075,Tedj Bensaoula,1,0,0,0
+1982,Chile,P-07951,Miguel Ángel Neira,0,1,0,1
+1982,Chile,P-03618,Juan Carlos Letelier,0,1,0,0
+1982,France,P-00182,Didier Six,1,0,0,0
+1982,Czechoslovakia,P-07198,Antonín Panenka,0,1,0,1
+1982,Yugoslavia,P-00443,Vladimir Petrović,0,1,0,1
+1982,Germany,P-08438,Horst Hrubesch,1,0,0,0
+1982,England,P-01938,Trevor Francis,1,0,0,0
+1982,Northern Ireland,P-01384,Gerry Armstrong,0,1,0,0
+1982,France,P-08166,Bernard Genghini,0,1,0,0
+1982,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1982,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1982,Poland,P-05351,Zbigniew Boniek,1,0,0,0
+1982,Italy,P-06751,Marco Tardelli,1,0,0,0
+1982,Italy,P-05548,Antonio Cabrini,1,0,0,0
+1982,Argentina,P-00705,Daniel Passarella,0,1,0,0
+1982,Austria,P-00398,Bruno Pezzey,1,0,0,0
+1982,Austria,P-03157,Reinhold Hintermaier,1,0,0,0
+1982,Northern Ireland,P-07495,Billy Hamilton,0,1,0,0
+1982,Northern Ireland,P-07495,Billy Hamilton,0,1,0,0
+1982,Russia,P-06097,Khoren Hovhannisyan,0,1,0,0
+1982,Argentina,P-01117,Ramón Díaz,1,0,0,0
+1982,Brazil,P-03653, Zico,0,1,0,0
+1982,Brazil,P-06564, Serginho,0,1,0,0
+1982,Brazil,P-01964, Júnior,0,1,0,0
+1982,Germany,P-05795,Pierre Littbarski,1,0,0,0
+1982,Germany,P-01085,Klaus Fischer,1,0,0,0
+1982,Spain,P-05930,Jesús María Zamora,0,1,0,0
+1982,France,P-01018,Alain Giresse,1,0,0,0
+1982,France,P-01018,Alain Giresse,1,0,0,0
+1982,France,P-00360,Dominique Rocheteau,1,0,0,0
+1982,France,P-00360,Dominique Rocheteau,1,0,0,0
+1982,Northern Ireland,P-01384,Gerry Armstrong,0,1,0,0
+1982,Italy,P-08703,Paolo Rossi,1,0,0,0
+1982,Italy,P-08703,Paolo Rossi,1,0,0,0
+1982,Italy,P-08703,Paolo Rossi,1,0,0,0
+1982,Brazil,P-03716, Sócrates,0,1,0,0
+1982,Brazil,P-05820, Falcão,0,1,0,0
+1982,Italy,P-08703,Paolo Rossi,0,1,0,0
+1982,Italy,P-08703,Paolo Rossi,0,1,0,0
+1982,Germany,P-05795,Pierre Littbarski,1,0,0,0
+1982,Germany,P-08975,Karl-Heinz Rummenigge,1,0,0,0
+1982,Germany,P-01085,Klaus Fischer,1,0,0,0
+1982,France,P-07530,Michel Platini,0,1,0,1
+1982,France,P-03401,Marius Trésor,0,1,0,0
+1982,France,P-01018,Alain Giresse,0,1,0,0
+1982,Poland,P-00830,Andrzej Szarmach,1,0,0,0
+1982,Poland,P-00203,Stefan Majewski,1,0,0,0
+1982,Poland,P-04024,Janusz Kupcewicz,1,0,0,0
+1982,France,P-01783,René Girard,0,1,0,0
+1982,France,P-04252,Alain Couriol,0,1,0,0
+1982,Italy,P-08703,Paolo Rossi,1,0,0,0
+1982,Italy,P-06751,Marco Tardelli,1,0,0,0
+1982,Italy,P-09627,Alessandro Altobelli,1,0,0,0
+1982,Germany,P-02216,Paul Breitner,0,1,0,0
+1986,Bulgaria,P-06558,Nasko Sirakov,1,0,0,0
+1986,Italy,P-09627,Alessandro Altobelli,0,1,0,0
+1986,Brazil,P-03716, Sócrates,0,1,0,0
+1986,France,P-03112,Jean-Pierre Papin,0,1,0,0
+1986,Argentina,P-04626,Jorge Valdano,1,0,0,0
+1986,Argentina,P-04626,Jorge Valdano,1,0,0,0
+1986,Argentina,P-06983,Oscar Ruggeri,1,0,0,0
+1986,South Korea,P-02029,Chang-sun Park,0,1,0,0
+1986,Russia,P-04507,Pavel Yakovenko,1,0,0,0
+1986,Russia,P-01983,Sergei Aleinikov,1,0,0,0
+1986,Russia,P-09401,Ihor Belanov,1,0,0,1
+1986,Russia,P-05306,Ivan Yaremchuk,1,0,0,0
+1986,Russia,P-09655,Sergey Rodionov,1,0,0,0
+1986,Hungary,P-02708,László Dajka,1,0,1,0
+1986,Belgium,P-03124,Erwin Vandenbergh,1,0,0,0
+1986,Mexico,P-07688,Fernando Quirarte,0,1,0,0
+1986,Mexico,P-07659,Hugo Sánchez,0,1,0,0
+1986,Algeria,P-03734,Djamel Zidane,1,0,0,0
+1986,Northern Ireland,P-08413,Norman Whiteside,0,1,0,0
+1986,Portugal,P-05077,Carlos Manuel,1,0,0,0
+1986,Paraguay,P-00797,Julio César Romero,1,0,0,0
+1986,Uruguay,P-08656,Antonio Alzamendi,1,0,0,0
+1986,Germany,P-03310,Klaus Allofs,0,1,0,0
+1986,Denmark,P-06503,Preben Elkjær,0,1,0,0
+1986,Italy,P-09627,Alessandro Altobelli,1,0,0,1
+1986,Argentina,P-06516,Diego Maradona,0,1,0,0
+1986,France,P-07435,Luis Fernández,1,0,0,0
+1986,Russia,P-05307,Vasyl Rats,0,1,0,0
+1986,South Korea,P-01734,Jong-boo Kim,1,0,0,0
+1986,Bulgaria,P-06964,Plamen Getov,0,1,0,0
+1986,Hungary,P-09617,Márton Esterházy,1,0,0,0
+1986,Hungary,P-08277,Lajos Détári,1,0,0,0
+1986,Brazil,P-08699, Careca,1,0,0,0
+1986,Mexico,P-09790,Luis Flores,1,0,0,0
+1986,Paraguay,P-00797,Julio César Romero,0,1,0,0
+1986,Northern Ireland,P-04501,Colin Clarke,1,0,0,0
+1986,Spain,P-07608,Emilio Butragueño,0,1,0,0
+1986,Spain,P-08552,Julio Salinas,0,1,0,0
+1986,Poland,P-02033,Włodzimierz Smolarek,1,0,0,0
+1986,Iraq,P-04447,Ahmed Radhi,1,0,0,0
+1986,Belgium,P-00872,Enzo Scifo,0,1,0,0
+1986,Belgium,P-03746,Nico Claesen,0,1,0,1
+1986,Germany,P-07240,Rudi Völler,1,0,0,0
+1986,Germany,P-03310,Klaus Allofs,1,0,0,0
+1986,Scotland,P-02376,Gordon Strachan,0,1,0,0
+1986,Denmark,P-06503,Preben Elkjær,1,0,0,0
+1986,Denmark,P-06503,Preben Elkjær,1,0,0,0
+1986,Denmark,P-06503,Preben Elkjær,1,0,0,0
+1986,Denmark,P-01480,Søren Lerby,1,0,0,0
+1986,Denmark,P-00374,Michael Laudrup,1,0,0,0
+1986,Denmark,P-06084,Jesper Olsen,1,0,0,0
+1986,Uruguay,P-05131,Enzo Francescoli,0,1,0,1
+1986,France,P-09124,Yannick Stopyra,0,1,0,0
+1986,France,P-06060,Jean Tigana,0,1,0,0
+1986,France,P-00360,Dominique Rocheteau,0,1,0,0
+1986,Russia,P-01271,Oleh Blokhin,1,0,0,0
+1986,Russia,P-00690,Aleksandr Zavarov,1,0,0,0
+1986,Argentina,P-04626,Jorge Valdano,1,0,0,0
+1986,Argentina,P-02255,Jorge Burruchaga,1,0,0,0
+1986,South Korea,P-09860,Soon-ho Choi,1,0,0,0
+1986,South Korea,P-04395,Jung-moo Huh,1,0,0,0
+1986,Italy,P-09627,Alessandro Altobelli,0,1,0,0
+1986,Italy,P-09627,Alessandro Altobelli,0,1,0,0
+1986,South Korea,P-05109,Kwang-rae Cho,0,1,1,0
+1986,Mexico,P-07688,Fernando Quirarte,0,1,0,0
+1986,Paraguay,P-05454,Roberto Cabañas,1,0,0,0
+1986,Paraguay,P-05454,Roberto Cabañas,1,0,0,0
+1986,Belgium,P-04825,Franky Vercauteren,0,1,0,0
+1986,Belgium,P-04306,Daniel Veyt,0,1,0,0
+1986,England,P-02777,Gary Lineker,1,0,0,0
+1986,England,P-02777,Gary Lineker,1,0,0,0
+1986,England,P-02777,Gary Lineker,1,0,0,0
+1986,Portugal,P-00542, Diamantino,1,0,0,0
+1986,Morocco,P-00451,Abderrazak Khairi,0,1,0,0
+1986,Morocco,P-00451,Abderrazak Khairi,0,1,0,0
+1986,Morocco,P-00635,Abdelkrim Merry,0,1,0,0
+1986,Spain,P-00147,Ramón Calderé,0,1,0,0
+1986,Spain,P-00147,Ramón Calderé,0,1,0,0
+1986,Spain,P-06389, Eloy,0,1,0,0
+1986,Brazil,P-08699, Careca,0,1,0,0
+1986,Brazil,P-08699, Careca,0,1,0,0
+1986,Brazil,P-03280, Josimar,0,1,0,0
+1986,Denmark,P-06084,Jesper Olsen,1,0,0,1
+1986,Denmark,P-08203,John Eriksen,1,0,0,0
+1986,Mexico,P-08533,Manuel Negrete,1,0,0,0
+1986,Mexico,P-05997,Raúl Servín,1,0,0,0
+1986,Russia,P-09401,Ihor Belanov,1,0,0,0
+1986,Russia,P-09401,Ihor Belanov,1,0,0,0
+1986,Russia,P-09401,Ihor Belanov,1,0,0,1
+1986,Belgium,P-00872,Enzo Scifo,0,1,0,0
+1986,Belgium,P-06479,Jan Ceulemans,0,1,0,0
+1986,Belgium,P-04095,Stéphane Demol,0,1,0,0
+1986,Belgium,P-03746,Nico Claesen,0,1,0,0
+1986,Brazil,P-03716, Sócrates,1,0,0,1
+1986,Brazil,P-03280, Josimar,1,0,0,0
+1986,Brazil,P-06803, Edinho,1,0,0,0
+1986,Brazil,P-08699, Careca,1,0,0,1
+1986,Argentina,P-02566,Pedro Pasculli,1,0,0,0
+1986,France,P-07530,Michel Platini,0,1,0,0
+1986,France,P-09124,Yannick Stopyra,0,1,0,0
+1986,Germany,P-01993,Lothar Matthäus,0,1,0,0
+1986,England,P-02777,Gary Lineker,1,0,0,0
+1986,England,P-02777,Gary Lineker,1,0,0,0
+1986,England,P-09395,Peter Beardsley,1,0,0,0
+1986,Denmark,P-06084,Jesper Olsen,1,0,0,1
+1986,Spain,P-07608,Emilio Butragueño,0,1,0,0
+1986,Spain,P-07608,Emilio Butragueño,0,1,0,0
+1986,Spain,P-07608,Emilio Butragueño,0,1,0,0
+1986,Spain,P-07608,Emilio Butragueño,0,1,0,1
+1986,Spain,P-00057,Andoni Goikoetxea,0,1,0,1
+1986,Brazil,P-08699, Careca,1,0,0,0
+1986,France,P-07530,Michel Platini,0,1,0,0
+1986,Argentina,P-06516,Diego Maradona,1,0,0,0
+1986,Argentina,P-06516,Diego Maradona,1,0,0,0
+1986,England,P-02777,Gary Lineker,0,1,0,0
+1986,Spain,P-07721,Juan Antonio Señor,1,0,0,0
+1986,Belgium,P-06479,Jan Ceulemans,0,1,0,0
+1986,Germany,P-07217,Andreas Brehme,0,1,0,0
+1986,Germany,P-07240,Rudi Völler,0,1,0,0
+1986,Argentina,P-06516,Diego Maradona,1,0,0,0
+1986,Argentina,P-06516,Diego Maradona,1,0,0,0
+1986,Belgium,P-06479,Jan Ceulemans,1,0,0,0
+1986,Belgium,P-03746,Nico Claesen,1,0,0,0
+1986,France,P-00076,Jean-Marc Ferreri,0,1,0,0
+1986,France,P-03112,Jean-Pierre Papin,0,1,0,0
+1986,France,P-08166,Bernard Genghini,0,1,0,0
+1986,France,P-09137,Manuel Amoros,0,1,0,1
+1986,Argentina,P-07908,José Luis Brown,1,0,0,0
+1986,Argentina,P-04626,Jorge Valdano,1,0,0,0
+1986,Argentina,P-02255,Jorge Burruchaga,1,0,0,0
+1986,Germany,P-08975,Karl-Heinz Rummenigge,0,1,0,0
+1986,Germany,P-07240,Rudi Völler,0,1,0,0
+1990,Cameroon,P-06096,François Omam-Biyik,0,1,0,0
+1990,Romania,P-06156,Marius Lăcătuș,0,1,0,0
+1990,Romania,P-06156,Marius Lăcătuș,0,1,0,1
+1990,Colombia,P-09990,Bernardo Redín,0,1,0,0
+1990,Colombia,P-09690,Carlos Valderrama,0,1,0,0
+1990,Italy,P-04373,Salvatore Schillaci,1,0,0,0
+1990,United States,P-09775,Paul Caligiuri,1,0,0,0
+1990,Czechoslovakia,P-03413,Tomáš Skuhravý,0,1,0,0
+1990,Czechoslovakia,P-03413,Tomáš Skuhravý,0,1,0,0
+1990,Czechoslovakia,P-01478,Michal Bílek,0,1,0,1
+1990,Czechoslovakia,P-00477,Ivan Hašek,0,1,0,0
+1990,Czechoslovakia,P-04944,Milan Luhový,0,1,0,0
+1990,Brazil,P-08699, Careca,1,0,0,0
+1990,Brazil,P-08699, Careca,1,0,0,0
+1990,Sweden,P-08571,Tomas Brolin,0,1,0,0
+1990,Germany,P-01993,Lothar Matthäus,1,0,0,0
+1990,Germany,P-01993,Lothar Matthäus,1,0,0,0
+1990,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1990,Germany,P-07240,Rudi Völler,1,0,0,0
+1990,Yugoslavia,P-00028,Davor Jozić,0,1,0,0
+1990,Costa Rica,P-02592,Juan Cayasso,1,0,0,0
+1990,England,P-02777,Gary Lineker,1,0,0,0
+1990,Republic of Ireland,P-02909,Kevin Sheedy,0,1,0,0
+1990,Belgium,P-08937,Marc Degryse,1,0,0,0
+1990,Belgium,P-06910,Michel De Wolf,1,0,0,0
+1990,Netherlands,P-07027,Wim Kieft,1,0,0,0
+1990,Egypt,P-02311,Magdi Abdelghani,0,1,0,1
+1990,Argentina,P-04319,Pedro Troglio,1,0,0,0
+1990,Argentina,P-02255,Jorge Burruchaga,1,0,0,0
+1990,Cameroon,P-00994,Roger Milla,1,0,0,0
+1990,Cameroon,P-00994,Roger Milla,1,0,0,0
+1990,Romania,P-06996,Gabi Balint,0,1,0,0
+1990,Yugoslavia,P-00028,Davor Jozić,1,0,0,0
+1990,Italy,P-00342,Giuseppe Giannini,1,0,0,0
+1990,Czechoslovakia,P-01478,Michal Bílek,0,1,0,1
+1990,Germany,P-07240,Rudi Völler,1,0,0,0
+1990,Germany,P-07240,Rudi Völler,1,0,0,0
+1990,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1990,Germany,P-01993,Lothar Matthäus,1,0,0,0
+1990,Germany,P-04182,Uwe Bein,1,0,0,0
+1990,United Arab Emirates,P-00430,Khalid Ismaïl,0,1,0,0
+1990,Brazil,P-06344, Müller,1,0,0,0
+1990,Sweden,P-04680,Glenn Strömberg,1,0,0,0
+1990,Scotland,P-09470,Stuart McCall,0,1,0,0
+1990,Scotland,P-06229,Mo Johnston,0,1,0,1
+1990,Belgium,P-04743,Leo Clijsters,1,0,0,0
+1990,Belgium,P-00872,Enzo Scifo,1,0,0,0
+1990,Belgium,P-06479,Jan Ceulemans,1,0,0,0
+1990,Uruguay,P-03953,Pablo Bengoechea,0,1,0,0
+1990,South Korea,P-01217,Kwan Hwangbo,1,0,0,0
+1990,Spain,P-09467, Míchel,0,1,0,0
+1990,Spain,P-09467, Míchel,0,1,0,0
+1990,Spain,P-09467, Míchel,0,1,0,0
+1990,Argentina,P-03820,Pedro Monzón,1,0,0,0
+1990,Romania,P-06996,Gabi Balint,0,1,0,0
+1990,Russia,P-00672,Oleh Protasov,0,1,0,0
+1990,Russia,P-06356,Andrei Zygmantovich,0,1,0,0
+1990,Russia,P-05899,Oleksandr Zavarov,0,1,0,0
+1990,Russia,P-02461,Igor Dobrovolski,0,1,0,0
+1990,Germany,P-05795,Pierre Littbarski,1,0,0,0
+1990,Colombia,P-01259,Freddy Rincón,0,1,0,0
+1990,Yugoslavia,P-00515,Safet Sušić,1,0,0,0
+1990,Yugoslavia,P-00173,Darko Pančev,1,0,0,0
+1990,Yugoslavia,P-00173,Darko Pančev,1,0,0,0
+1990,Yugoslavia,P-07639,Robert Prosinečki,1,0,0,0
+1990,United Arab Emirates,P-00681,Ali Thani Jumaa,0,1,0,0
+1990,Austria,P-06394,Andreas Ogris,1,0,0,0
+1990,Austria,P-02693,Gerhard Rodax,1,0,0,0
+1990,United States,P-04019,Bruce Murray,0,1,0,0
+1990,Italy,P-04373,Salvatore Schillaci,1,0,0,0
+1990,Italy,P-09078,Roberto Baggio,1,0,0,0
+1990,Brazil,P-06344, Müller,1,0,0,0
+1990,Sweden,P-00626,Johnny Ekström,1,0,0,0
+1990,Costa Rica,P-05083,Róger Flores,0,1,0,0
+1990,Costa Rica,P-03497,Hernán Medford,0,1,0,0
+1990,Belgium,P-06386,Patrick Vervoort,1,0,0,0
+1990,Spain,P-09467, Míchel,0,1,0,1
+1990,Spain,P-03446,Alberto Górriz,0,1,0,0
+1990,Uruguay,P-04782,Daniel Fonseca,0,1,0,0
+1990,England,P-04703,Mark Wright,1,0,0,0
+1990,Republic of Ireland,P-03909,Niall Quinn,1,0,0,0
+1990,Netherlands,P-01963,Ruud Gullit,0,1,0,0
+1990,Cameroon,P-00994,Roger Milla,1,0,0,0
+1990,Cameroon,P-00994,Roger Milla,1,0,0,0
+1990,Colombia,P-09990,Bernardo Redín,0,1,0,0
+1990,Czechoslovakia,P-03413,Tomáš Skuhravý,1,0,0,0
+1990,Czechoslovakia,P-03413,Tomáš Skuhravý,1,0,0,0
+1990,Czechoslovakia,P-03413,Tomáš Skuhravý,1,0,0,0
+1990,Czechoslovakia,P-04880,Luboš Kubík,1,0,0,0
+1990,Costa Rica,P-09278,Rónald González Brenes,0,1,0,0
+1990,Argentina,P-00913,Claudio Caniggia,0,1,0,0
+1990,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1990,Germany,P-07217,Andreas Brehme,1,0,0,0
+1990,Netherlands,P-06355,Ronald Koeman,0,1,0,1
+1990,Italy,P-04373,Salvatore Schillaci,1,0,0,0
+1990,Italy,P-03691,Aldo Serena,1,0,0,0
+1990,Spain,P-08552,Julio Salinas,1,0,0,0
+1990,Yugoslavia,P-07957,Dragan Stojković,0,1,0,0
+1990,Yugoslavia,P-07957,Dragan Stojković,0,1,0,0
+1990,England,P-04953,David Platt,1,0,0,0
+1990,Italy,P-04373,Salvatore Schillaci,0,1,0,0
+1990,Germany,P-01993,Lothar Matthäus,0,1,0,1
+1990,Cameroon,P-04297,Emmanuel Kundé,1,0,0,1
+1990,Cameroon,P-08130,Eugène Ekéké,1,0,0,0
+1990,England,P-04953,David Platt,0,1,0,0
+1990,England,P-02777,Gary Lineker,0,1,0,1
+1990,England,P-02777,Gary Lineker,0,1,0,1
+1990,Argentina,P-00913,Claudio Caniggia,1,0,0,0
+1990,Italy,P-04373,Salvatore Schillaci,0,1,0,0
+1990,Germany,P-07217,Andreas Brehme,1,0,0,0
+1990,England,P-02777,Gary Lineker,0,1,0,0
+1990,Italy,P-09078,Roberto Baggio,1,0,0,0
+1990,Italy,P-04373,Salvatore Schillaci,1,0,0,1
+1990,England,P-04953,David Platt,0,1,0,0
+1990,Germany,P-07217,Andreas Brehme,1,0,0,1
+1994,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1994,Spain,P-08552,Julio Salinas,1,0,0,0
+1994,Spain,P-02351,Andoni Goikoetxea,1,0,0,0
+1994,South Korea,P-04298,Myung-bo Hong,0,1,0,0
+1994,South Korea,P-03315,Jung-won Seo,0,1,0,0
+1994,United States,P-08398,Eric Wynalda,1,0,0,0
+1994,Switzerland,P-07528,Georges Bregy,0,1,0,0
+1994,Republic of Ireland,P-08181,Ray Houghton,0,1,0,0
+1994,Colombia,P-04004,Adolfo Valencia,1,0,0,0
+1994,Romania,P-08747,Florin Răducioiu,0,1,0,0
+1994,Romania,P-08747,Florin Răducioiu,0,1,0,0
+1994,Romania,P-09707,Gheorghe Hagi,0,1,0,0
+1994,Belgium,P-08937,Marc Degryse,1,0,0,0
+1994,Norway,P-09932,Kjetil Rekdal,1,0,0,0
+1994,Cameroon,P-04400,David Embé,1,0,0,0
+1994,Cameroon,P-06096,François Omam-Biyik,1,0,0,0
+1994,Sweden,P-01787,Roger Ljung,0,1,0,0
+1994,Sweden,P-08681,Martin Dahlin,0,1,0,0
+1994,Brazil,P-07489, Romário,1,0,0,0
+1994,Brazil,P-05168, Raí,1,0,0,1
+1994,Netherlands,P-01867,Wim Jonk,1,0,0,0
+1994,Netherlands,P-02882,Gaston Taument,1,0,0,0
+1994,Saudi Arabia,P-00361,Fuad Anwar,0,1,0,0
+1994,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+1994,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+1994,Argentina,P-05392,Gabriel Batistuta,1,0,0,1
+1994,Argentina,P-06516,Diego Maradona,1,0,0,0
+1994,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1994,Spain,P-02351,Andoni Goikoetxea,0,1,0,0
+1994,Nigeria,P-05689,Rashidi Yekini,1,0,0,0
+1994,Nigeria,P-09026,Daniel Amokachi,1,0,0,0
+1994,Nigeria,P-06735,Emmanuel Amunike,1,0,0,0
+1994,Romania,P-09707,Gheorghe Hagi,1,0,0,0
+1994,Switzerland,P-03453,Alain Sutter,0,1,0,0
+1994,Switzerland,P-02168,Stéphane Chapuisat,0,1,0,0
+1994,Switzerland,P-04434,Adrian Knup,0,1,0,0
+1994,Switzerland,P-04434,Adrian Knup,0,1,0,0
+1994,United States,P-04862,Earnie Stewart,1,0,0,0
+1994,Colombia,P-04004,Adolfo Valencia,0,1,0,0
+1994,Colombia,P-07844,Andrés Escobar,1,0,1,0
+1994,Italy,P-00737,Dino Baggio,1,0,0,0
+1994,Mexico,P-05169,Luis García Postigo,1,0,0,0
+1994,Mexico,P-05169,Luis García Postigo,1,0,0,0
+1994,Republic of Ireland,P-01301,John Aldridge,0,1,0,0
+1994,Brazil,P-07489, Romário,1,0,0,0
+1994,Brazil,P-03057,Márcio Santos,1,0,0,0
+1994,Brazil,P-05954, Bebeto,1,0,0,0
+1994,Sweden,P-08571,Tomas Brolin,1,0,0,1
+1994,Sweden,P-08681,Martin Dahlin,1,0,0,0
+1994,Sweden,P-08681,Martin Dahlin,1,0,0,0
+1994,Russia,P-07023,Oleg Salenko,0,1,0,1
+1994,Belgium,P-01953,Philippe Albert,1,0,0,0
+1994,Saudi Arabia,P-06162,Sami Al-Jaber,1,0,0,1
+1994,Saudi Arabia,P-00361,Fuad Anwar,1,0,0,0
+1994,Morocco,P-00950,Mohammed Chaouch,0,1,0,0
+1994,Argentina,P-00913,Claudio Caniggia,1,0,0,0
+1994,Argentina,P-00913,Claudio Caniggia,1,0,0,0
+1994,Nigeria,P-04543,Samson Siasia,0,1,0,0
+1994,Bulgaria,P-06855,Hristo Stoichkov,1,0,0,1
+1994,Bulgaria,P-06855,Hristo Stoichkov,1,0,0,1
+1994,Bulgaria,P-02865,Yordan Letchkov,1,0,0,0
+1994,Bulgaria,P-02203,Daniel Borimirov,1,0,0,0
+1994,Colombia,P-02397,Hermán Gaviria,0,1,0,0
+1994,Colombia,P-06845,John Harold Lozano,0,1,0,0
+1994,Romania,P-07321,Dan Petrescu,0,1,0,0
+1994,Bolivia,P-05370,Erwin Sánchez,1,0,0,0
+1994,Spain,P-01265,Josep Guardiola,0,1,0,1
+1994,Spain,P-03530,José Luis Caminero,0,1,0,0
+1994,Spain,P-03530,José Luis Caminero,0,1,0,0
+1994,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1994,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1994,Germany,P-01456,Karl-Heinz Riedle,1,0,0,0
+1994,South Korea,P-03321,Sun-hong Hwang,0,1,0,0
+1994,South Korea,P-04298,Myung-bo Hong,0,1,0,0
+1994,Italy,P-03745,Daniele Massaro,1,0,0,0
+1994,Mexico,P-05495,Marcelino Bernal,0,1,0,0
+1994,Russia,P-07023,Oleg Salenko,1,0,0,0
+1994,Russia,P-07023,Oleg Salenko,1,0,0,0
+1994,Russia,P-07023,Oleg Salenko,1,0,0,1
+1994,Russia,P-07023,Oleg Salenko,1,0,0,0
+1994,Russia,P-07023,Oleg Salenko,1,0,0,0
+1994,Russia,P-06598,Dmitri Radchenko,1,0,0,0
+1994,Cameroon,P-00994,Roger Milla,0,1,0,0
+1994,Brazil,P-07489, Romário,1,0,0,0
+1994,Sweden,P-08602,Kennet Andersson,0,1,0,0
+1994,Saudi Arabia,P-03228,Saeed Al-Owairan,0,1,0,0
+1994,Morocco,P-04206,Hassan Nader,1,0,0,0
+1994,Netherlands,P-03525,Dennis Bergkamp,0,1,0,0
+1994,Netherlands,P-05292,Bryan Roy,0,1,0,0
+1994,Bulgaria,P-06855,Hristo Stoichkov,0,1,0,0
+1994,Bulgaria,P-06558,Nasko Sirakov,0,1,0,0
+1994,Nigeria,P-09840,Finidi George,0,1,0,0
+1994,Nigeria,P-09026,Daniel Amokachi,0,1,0,0
+1994,Germany,P-07240,Rudi Völler,1,0,0,0
+1994,Germany,P-07240,Rudi Völler,1,0,0,0
+1994,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1994,Belgium,P-04248,Georges Grün,0,1,0,0
+1994,Belgium,P-01953,Philippe Albert,0,1,0,0
+1994,Spain,P-01968,Fernando Hierro,1,0,0,0
+1994,Spain,P-00381,Luis Enrique,1,0,0,0
+1994,Spain,P-09287,Txiki Begiristain,1,0,0,1
+1994,Saudi Arabia,P-03557,Fahad Al-Ghesheyan,1,0,0,0
+1994,Sweden,P-08681,Martin Dahlin,0,1,0,0
+1994,Sweden,P-08602,Kennet Andersson,0,1,0,0
+1994,Sweden,P-08602,Kennet Andersson,0,1,0,0
+1994,Romania,P-01078,Ilie Dumitrescu,1,0,0,0
+1994,Romania,P-01078,Ilie Dumitrescu,1,0,0,0
+1994,Romania,P-09707,Gheorghe Hagi,1,0,0,0
+1994,Argentina,P-05392,Gabriel Batistuta,0,1,0,1
+1994,Argentina,P-07491,Abel Balbo,0,1,0,0
+1994,Netherlands,P-03525,Dennis Bergkamp,1,0,0,0
+1994,Netherlands,P-01867,Wim Jonk,1,0,0,0
+1994,Brazil,P-05954, Bebeto,1,0,0,0
+1994,Nigeria,P-06735,Emmanuel Amunike,1,0,0,0
+1994,Italy,P-09078,Roberto Baggio,0,1,0,0
+1994,Italy,P-09078,Roberto Baggio,0,1,0,1
+1994,Mexico,P-07220,Alberto García Aspe,1,0,0,1
+1994,Bulgaria,P-06855,Hristo Stoichkov,0,1,0,0
+1994,Italy,P-00737,Dino Baggio,1,0,0,0
+1994,Italy,P-09078,Roberto Baggio,1,0,0,0
+1994,Spain,P-03530,José Luis Caminero,0,1,0,0
+1994,Netherlands,P-03525,Dennis Bergkamp,1,0,0,0
+1994,Netherlands,P-03306,Aron Winter,1,0,0,0
+1994,Brazil,P-07489, Romário,0,1,0,0
+1994,Brazil,P-05954, Bebeto,0,1,0,0
+1994,Brazil,P-02338, Branco,0,1,0,0
+1994,Bulgaria,P-06855,Hristo Stoichkov,1,0,0,0
+1994,Bulgaria,P-02865,Yordan Letchkov,1,0,0,0
+1994,Germany,P-01993,Lothar Matthäus,0,1,0,1
+1994,Romania,P-08747,Florin Răducioiu,1,0,0,0
+1994,Romania,P-08747,Florin Răducioiu,1,0,0,0
+1994,Sweden,P-08571,Tomas Brolin,0,1,0,0
+1994,Sweden,P-08602,Kennet Andersson,0,1,0,0
+1994,Bulgaria,P-06855,Hristo Stoichkov,1,0,0,1
+1994,Italy,P-09078,Roberto Baggio,0,1,0,0
+1994,Italy,P-09078,Roberto Baggio,0,1,0,0
+1994,Brazil,P-07489, Romário,0,1,0,0
+1994,Sweden,P-08571,Tomas Brolin,1,0,0,0
+1994,Sweden,P-02031,Håkan Mild,1,0,0,0
+1994,Sweden,P-09697,Henrik Larsson,1,0,0,0
+1994,Sweden,P-08602,Kennet Andersson,1,0,0,0
+1998,Brazil,P-05926,César Sampaio,1,0,0,0
+1998,Scotland,P-05404,John Collins,0,1,0,1
+1998,Scotland,P-04230,Tom Boyd,1,0,1,0
+1998,Morocco,P-02981,Mustapha Hadji,1,0,0,0
+1998,Morocco,P-02819,Abdeljalil Hadda,1,0,0,0
+1998,Norway,P-00814,Dan Eggen,0,1,0,0
+1998,Morocco,P-04646,Youssef Chippo,0,1,1,0
+1998,Italy,P-04765,Christian Vieri,1,0,0,0
+1998,Italy,P-09078,Roberto Baggio,1,0,0,1
+1998,Chile,P-01929,Marcelo Salas,0,1,0,0
+1998,Chile,P-01929,Marcelo Salas,0,1,0,0
+1998,Cameroon,P-01588,Pierre Njanka,1,0,0,0
+1998,Austria,P-01823,Toni Polster,0,1,0,0
+1998,Denmark,P-00895,Marc Rieper,0,1,0,0
+1998,France,P-02083,Christophe Dugarry,1,0,0,0
+1998,France,P-06999,Thierry Henry,1,0,0,0
+1998,South Africa,P-01429,Pierre Issa,1,0,1,0
+1998,Spain,P-01968,Fernando Hierro,1,0,0,0
+1998,Spain,P-03846, Raúl,1,0,0,0
+1998,Nigeria,P-07662,Mutiu Adepoju,0,1,0,0
+1998,Nigeria,P-05660,Sunday Oliseh,0,1,0,0
+1998,Spain,P-07337,Andoni Zubizarreta,0,1,1,0
+1998,South Korea,P-00989,Seok-ju Ha,1,0,0,0
+1998,Mexico,P-09435,Ricardo Peláez,0,1,0,0
+1998,Mexico,P-07147,Luis Hernández,0,1,0,0
+1998,Mexico,P-07147,Luis Hernández,0,1,0,0
+1998,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+1998,Yugoslavia,P-00070,Siniša Mihajlović,1,0,0,0
+1998,Jamaica,P-07335,Robbie Earle,1,0,0,0
+1998,Croatia,P-04365,Mario Stanić,0,1,0,0
+1998,Croatia,P-07639,Robert Prosinečki,0,1,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,0
+1998,England,P-03894,Alan Shearer,1,0,0,0
+1998,England,P-01721,Paul Scholes,1,0,0,0
+1998,Romania,P-06071,Adrian Ilie,1,0,0,0
+1998,Germany,P-01057,Andreas Möller,1,0,0,0
+1998,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1998,Scotland,P-05042,Craig Burley,1,0,0,0
+1998,Norway,P-09842,Håvard Flo,0,1,0,0
+1998,Brazil,P-04601, Ronaldo,1,0,0,0
+1998,Brazil,P-00008, Rivaldo,1,0,0,0
+1998,Brazil,P-05954, Bebeto,1,0,0,0
+1998,Chile,P-01929,Marcelo Salas,1,0,0,0
+1998,Austria,P-07923,Ivica Vastić,0,1,0,0
+1998,Italy,P-07465,Luigi Di Biagio,1,0,0,0
+1998,Italy,P-04765,Christian Vieri,1,0,0,0
+1998,Italy,P-04765,Christian Vieri,1,0,0,0
+1998,South Africa,P-03822,Benni McCarthy,1,0,0,0
+1998,Denmark,P-00539,Allan Nielsen,0,1,0,0
+1998,France,P-06999,Thierry Henry,1,0,0,0
+1998,France,P-06999,Thierry Henry,1,0,0,0
+1998,France,P-08637,David Trezeguet,1,0,0,0
+1998,France,P-04585,Bixente Lizarazu,1,0,0,0
+1998,Nigeria,P-00644,Victor Ikpeba,1,0,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,0
+1998,Belgium,P-09603,Marc Wilmots,1,0,0,0
+1998,Belgium,P-09603,Marc Wilmots,1,0,0,0
+1998,Mexico,P-07220,Alberto García Aspe,0,1,0,1
+1998,Mexico,P-00729,Cuauhtémoc Blanco,0,1,0,0
+1998,Netherlands,P-03185,Phillip Cocu,1,0,0,0
+1998,Netherlands,P-08704,Marc Overmars,1,0,0,0
+1998,Netherlands,P-03525,Dennis Bergkamp,1,0,0,0
+1998,Netherlands,P-09588,Pierre van Hooijdonk,1,0,0,0
+1998,Netherlands,P-02207,Ronald de Boer,1,0,0,0
+1998,Germany,P-02379,Oliver Bierhoff,1,0,0,0
+1998,Yugoslavia,P-02321,Predrag Mijatović,0,1,0,0
+1998,Yugoslavia,P-07957,Dragan Stojković,0,1,0,0
+1998,Yugoslavia,P-00070,Siniša Mihajlović,1,0,1,0
+1998,Argentina,P-07622,Ariel Ortega,1,0,0,0
+1998,Argentina,P-07622,Ariel Ortega,1,0,0,0
+1998,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+1998,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+1998,Argentina,P-05392,Gabriel Batistuta,1,0,0,1
+1998,United States,P-07284,Brian McBride,1,0,0,0
+1998,Iran,P-02808,Hamid Estili,0,1,0,0
+1998,Iran,P-00452,Mehdi Mahdavikia,0,1,0,0
+1998,Colombia,P-00611,Léider Preciado,1,0,0,0
+1998,Romania,P-03097,Viorel Moldovan,1,0,0,0
+1998,Romania,P-07321,Dan Petrescu,1,0,0,0
+1998,England,P-07705,Michael Owen,0,1,0,0
+1998,Chile,P-05313,José Luis Sierra,1,0,0,0
+1998,Cameroon,P-08783,Patrick M'Boma,0,1,0,0
+1998,Italy,P-04765,Christian Vieri,1,0,0,0
+1998,Italy,P-09078,Roberto Baggio,1,0,0,0
+1998,Austria,P-05545,Andi Herzog,0,1,0,1
+1998,Brazil,P-05954, Bebeto,1,0,0,0
+1998,Norway,P-07402,Tore André Flo,0,1,0,0
+1998,Norway,P-09932,Kjetil Rekdal,0,1,0,1
+1998,Morocco,P-06079,Salaheddine Bassir,0,1,0,0
+1998,Morocco,P-06079,Salaheddine Bassir,0,1,0,0
+1998,Morocco,P-02819,Abdeljalil Hadda,0,1,0,0
+1998,France,P-01626,Youri Djorkaeff,1,0,0,1
+1998,France,P-03946,Emmanuel Petit,1,0,0,0
+1998,Denmark,P-00374,Michael Laudrup,0,1,0,1
+1998,South Africa,P-05596,Shaun Bartlett,1,0,0,0
+1998,South Africa,P-05596,Shaun Bartlett,1,0,0,1
+1998,Saudi Arabia,P-06162,Sami Al-Jaber,0,1,0,1
+1998,Saudi Arabia,P-04962,Yousuf Al-Thunayan,0,1,0,1
+1998,Nigeria,P-03248,Wilson Oruma,1,0,0,0
+1998,Paraguay,P-06151,Celso Ayala,0,1,0,0
+1998,Paraguay,P-09815,Miguel Ángel Benítez,0,1,0,0
+1998,Paraguay,P-08075,José Cardozo,0,1,0,0
+1998,Spain,P-01968,Fernando Hierro,1,0,0,1
+1998,Spain,P-00381,Luis Enrique,1,0,0,0
+1998,Spain,P-01593,Fernando Morientes,1,0,0,0
+1998,Spain,P-01593,Fernando Morientes,1,0,0,0
+1998,Spain,P-04927, Kiko,1,0,0,0
+1998,Bulgaria,P-01575,Emil Kostadinov,0,1,0,0
+1998,Bulgaria,P-00946,Georgi Bachev,1,0,1,0
+1998,Belgium,P-09761,Luc Nilis,1,0,0,0
+1998,South Korea,P-00084,Sang-chul Yoo,0,1,0,0
+1998,Netherlands,P-03185,Phillip Cocu,1,0,0,0
+1998,Netherlands,P-02207,Ronald de Boer,1,0,0,0
+1998,Mexico,P-09435,Ricardo Peláez,0,1,0,0
+1998,Mexico,P-07147,Luis Hernández,0,1,0,0
+1998,Germany,P-02379,Oliver Bierhoff,1,0,0,0
+1998,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1998,Yugoslavia,P-03783,Slobodan Komljenović,0,1,0,0
+1998,Argentina,P-03136,Mauricio Pineda,1,0,0,0
+1998,Japan,P-01664,Masashi Nakayama,1,0,0,0
+1998,Jamaica,P-09880,Theodore Whitmore,0,1,0,0
+1998,Jamaica,P-09880,Theodore Whitmore,0,1,0,0
+1998,England,P-05508,Darren Anderton,0,1,0,0
+1998,England,P-00614,David Beckham,0,1,0,0
+1998,Romania,P-03097,Viorel Moldovan,1,0,0,0
+1998,Tunisia,P-01901,Skander Souayah,0,1,0,1
+1998,Italy,P-04765,Christian Vieri,1,0,0,0
+1998,Brazil,P-05926,César Sampaio,1,0,0,0
+1998,Brazil,P-05926,César Sampaio,1,0,0,0
+1998,Brazil,P-04601, Ronaldo,1,0,0,1
+1998,Brazil,P-04601, Ronaldo,1,0,0,0
+1998,Chile,P-01929,Marcelo Salas,0,1,0,0
+1998,France,P-02125,Laurent Blanc,1,0,0,0
+1998,Nigeria,P-07547,Tijani Babangida,1,0,0,0
+1998,Denmark,P-06990,Peter Møller,0,1,0,0
+1998,Denmark,P-05195,Brian Laudrup,0,1,0,0
+1998,Denmark,P-00508,Ebbe Sand,0,1,0,0
+1998,Denmark,P-03299,Thomas Helveg,0,1,0,0
+1998,Germany,P-00876,Jürgen Klinsmann,1,0,0,0
+1998,Germany,P-02379,Oliver Bierhoff,1,0,0,0
+1998,Mexico,P-07147,Luis Hernández,0,1,0,0
+1998,Netherlands,P-03525,Dennis Bergkamp,1,0,0,0
+1998,Netherlands,P-04071,Edgar Davids,1,0,0,0
+1998,Yugoslavia,P-03783,Slobodan Komljenović,0,1,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,1
+1998,Argentina,P-05392,Gabriel Batistuta,1,0,0,1
+1998,Argentina,P-00389,Javier Zanetti,1,0,0,0
+1998,England,P-03894,Alan Shearer,0,1,0,1
+1998,England,P-07705,Michael Owen,0,1,0,0
+1998,Brazil,P-05954, Bebeto,1,0,0,0
+1998,Brazil,P-00008, Rivaldo,1,0,0,0
+1998,Brazil,P-00008, Rivaldo,1,0,0,0
+1998,Denmark,P-05052,Martin Jørgensen,0,1,0,0
+1998,Denmark,P-05195,Brian Laudrup,0,1,0,0
+1998,Netherlands,P-05316,Patrick Kluivert,1,0,0,0
+1998,Netherlands,P-03525,Dennis Bergkamp,1,0,0,0
+1998,Argentina,P-05333,Claudio López,0,1,0,0
+1998,Croatia,P-08556,Robert Jarni,0,1,0,0
+1998,Croatia,P-09155,Goran Vlaović,0,1,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,0
+1998,Brazil,P-04601, Ronaldo,1,0,0,0
+1998,Netherlands,P-05316,Patrick Kluivert,0,1,0,0
+1998,France,P-01770,Lilian Thuram,1,0,0,0
+1998,France,P-01770,Lilian Thuram,1,0,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,0
+1998,Netherlands,P-09656,Boudewijn Zenden,1,0,0,0
+1998,Croatia,P-07639,Robert Prosinečki,0,1,0,0
+1998,Croatia,P-04705,Davor Šuker,0,1,0,0
+1998,France,P-03582,Zinedine Zidane,0,1,0,0
+1998,France,P-03582,Zinedine Zidane,0,1,0,0
+1998,France,P-03946,Emmanuel Petit,0,1,0,0
+2002,Senegal,P-04667,Papa Bouba Diop,0,1,0,0
+2002,Republic of Ireland,P-09369,Matt Holland,1,0,0,0
+2002,Cameroon,P-08783,Patrick M'Boma,0,1,0,0
+2002,Uruguay,P-07901,Darío Rodríguez,1,0,0,0
+2002,Denmark,P-09841,Jon Dahl Tomasson,0,1,0,0
+2002,Denmark,P-09841,Jon Dahl Tomasson,0,1,0,0
+2002,Germany,P-05239,Miroslav Klose,1,0,0,0
+2002,Germany,P-05239,Miroslav Klose,1,0,0,0
+2002,Germany,P-05239,Miroslav Klose,1,0,0,0
+2002,Germany,P-05827,Michael Ballack,1,0,0,0
+2002,Germany,P-04884,Carsten Jancker,1,0,0,0
+2002,Germany,P-04627,Thomas Linke,1,0,0,0
+2002,Germany,P-02379,Oliver Bierhoff,1,0,0,0
+2002,Germany,P-00685,Bernd Schneider,1,0,0,0
+2002,Argentina,P-05392,Gabriel Batistuta,1,0,0,0
+2002,Paraguay,P-08379,Roque Santa Cruz,1,0,0,0
+2002,Paraguay,P-06905,Francisco Arce,1,0,0,0
+2002,South Africa,P-00956,Teboho Mokoena,0,1,0,0
+2002,South Africa,P-07915,Quinton Fortune,0,1,0,1
+2002,England,P-06823,Sol Campbell,1,0,0,0
+2002,Sweden,P-06807,Niclas Alexandersson,0,1,0,0
+2002,Spain,P-03846, Raúl,1,0,0,0
+2002,Spain,P-07091,Juan Carlos Valerón,1,0,0,0
+2002,Spain,P-01968,Fernando Hierro,1,0,0,1
+2002,Slovenia,P-04235,Sebastjan Cimirotič,0,1,0,0
+2002,Mexico,P-00729,Cuauhtémoc Blanco,0,1,0,1
+2002,Brazil,P-04601, Ronaldo,1,0,0,0
+2002,Brazil,P-00008, Rivaldo,1,0,0,1
+2002,Turkey,P-01357,Hasan Şaş,0,1,0,0
+2002,Italy,P-04765,Christian Vieri,1,0,0,0
+2002,Italy,P-04765,Christian Vieri,1,0,0,0
+2002,Costa Rica,P-06595,Rónald Gómez,0,1,0,0
+2002,Costa Rica,P-07323,Mauricio Wright,0,1,0,0
+2002,Japan,P-04499,Takayuki Suzuki,1,0,0,0
+2002,Japan,P-03800,Junichi Inamoto,1,0,0,0
+2002,Belgium,P-09603,Marc Wilmots,0,1,0,0
+2002,Belgium,P-04459,Peter Van der Heyden,0,1,0,0
+2002,South Korea,P-03321,Sun-hong Hwang,1,0,0,0
+2002,South Korea,P-00084,Sang-chul Yoo,1,0,0,0
+2002,Russia,P-04915,Yegor Titov,1,0,0,0
+2002,Russia,P-02414,Valeri Karpin,1,0,0,1
+2002,United States,P-09538,John O'Brien,1,0,0,0
+2002,United States,P-07284,Brian McBride,1,0,0,0
+2002,Portugal,P-09821, Beto,0,1,0,0
+2002,Portugal,P-04027,Jorge Costa,1,0,1,0
+2002,United States,P-07349,Jeff Agoos,0,1,1,0
+2002,Germany,P-05239,Miroslav Klose,1,0,0,0
+2002,Republic of Ireland,P-08628,Robbie Keane,0,1,0,0
+2002,Denmark,P-09841,Jon Dahl Tomasson,1,0,0,1
+2002,Senegal,P-04383,Salif Diao,0,1,0,0
+2002,Cameroon,P-03935,Samuel Eto'o,1,0,0,0
+2002,Sweden,P-09697,Henrik Larsson,1,0,0,0
+2002,Sweden,P-09697,Henrik Larsson,1,0,0,1
+2002,Nigeria,P-04240,Julius Aghahowa,0,1,0,0
+2002,Spain,P-01593,Fernando Morientes,1,0,0,0
+2002,Spain,P-01593,Fernando Morientes,1,0,0,0
+2002,Spain,P-01968,Fernando Hierro,1,0,0,1
+2002,Spain,P-00568,Carles Puyol,0,1,1,0
+2002,England,P-00614,David Beckham,0,1,0,1
+2002,South Africa,P-05537,Siyabonga Nomvethe,1,0,0,0
+2002,Italy,P-04765,Christian Vieri,1,0,0,0
+2002,Croatia,P-08876,Ivica Olić,0,1,0,0
+2002,Croatia,P-05098,Milan Rapaić,0,1,0,0
+2002,Brazil,P-06808,Roberto Carlos,1,0,0,0
+2002,Brazil,P-00008, Rivaldo,1,0,0,0
+2002,Brazil,P-09952, Ronaldinho,1,0,0,1
+2002,Brazil,P-04601, Ronaldo,1,0,0,0
+2002,Mexico,P-09320,Jared Borgetti,1,0,0,0
+2002,Mexico,P-08809,Gerardo Torrado,1,0,0,0
+2002,Ecuador,P-06431,Agustín Delgado,0,1,0,0
+2002,Costa Rica,P-08565,Winston Parks,1,0,0,0
+2002,Turkey,P-09162,Emre Belözoğlu,0,1,0,0
+2002,Japan,P-03800,Junichi Inamoto,1,0,0,0
+2002,South Korea,P-07103,Jung-hwan Ahn,1,0,0,0
+2002,United States,P-02894,Clint Mathis,0,1,0,0
+2002,Tunisia,P-00691,Raouf Bouzaiene,1,0,0,0
+2002,Belgium,P-09603,Marc Wilmots,0,1,0,0
+2002,Portugal,P-01987, Pauleta,1,0,0,0
+2002,Portugal,P-01987, Pauleta,1,0,0,0
+2002,Portugal,P-01987, Pauleta,1,0,0,0
+2002,Portugal,P-06526,Rui Costa,1,0,0,0
+2002,Denmark,P-02256,Dennis Rommedahl,1,0,0,0
+2002,Denmark,P-09841,Jon Dahl Tomasson,1,0,0,0
+2002,Senegal,P-06879,Khalilou Fadiga,1,0,0,1
+2002,Senegal,P-04667,Papa Bouba Diop,1,0,0,0
+2002,Senegal,P-04667,Papa Bouba Diop,1,0,0,0
+2002,Uruguay,P-06065,Richard Morales,0,1,0,0
+2002,Uruguay,P-01628,Diego Forlán,0,1,0,0
+2002,Uruguay,P-00467,Álvaro Recoba,0,1,0,1
+2002,Germany,P-03200,Marco Bode,0,1,0,0
+2002,Germany,P-05239,Miroslav Klose,0,1,0,0
+2002,Republic of Ireland,P-08628,Robbie Keane,0,1,0,0
+2002,Republic of Ireland,P-09101,Gary Breen,0,1,0,0
+2002,Republic of Ireland,P-09973,Damien Duff,0,1,0,0
+2002,Sweden,P-00988,Anders Svensson,1,0,0,0
+2002,Argentina,P-07013,Hernán Crespo,0,1,0,0
+2002,Slovenia,P-00419,Milenko Ačimovič,1,0,0,0
+2002,Paraguay,P-02234,Nelson Cuevas,0,1,0,0
+2002,Paraguay,P-02234,Nelson Cuevas,0,1,0,0
+2002,Paraguay,P-03065,Jorge Luis Campos,0,1,0,0
+2002,South Africa,P-03822,Benni McCarthy,1,0,0,0
+2002,South Africa,P-07803,Lucas Radebe,1,0,0,0
+2002,Spain,P-03846, Raúl,0,1,0,0
+2002,Spain,P-03846, Raúl,0,1,0,0
+2002,Spain,P-02339,Gaizka Mendieta,0,1,0,0
+2002,Costa Rica,P-00792,Paulo Wanchope,1,0,0,0
+2002,Costa Rica,P-06595,Rónald Gómez,1,0,0,0
+2002,Brazil,P-04601, Ronaldo,0,1,0,0
+2002,Brazil,P-04601, Ronaldo,0,1,0,0
+2002,Brazil,P-01775, Edmílson,0,1,0,0
+2002,Brazil,P-00008, Rivaldo,0,1,0,0
+2002,Brazil,P-01564, Júnior,0,1,0,0
+2002,Turkey,P-01357,Hasan Şaş,1,0,0,0
+2002,Turkey,P-04118,Bülent Korkmaz,1,0,0,0
+2002,Turkey,P-01361,Ümit Davala,1,0,0,0
+2002,Ecuador,P-06477,Édison Méndez,1,0,0,0
+2002,Mexico,P-09320,Jared Borgetti,1,0,0,0
+2002,Italy,P-09417,Alessandro Del Piero,0,1,0,0
+2002,Belgium,P-02628,Johan Walem,1,0,0,0
+2002,Belgium,P-07820,Wesley Sonck,1,0,0,0
+2002,Belgium,P-09603,Marc Wilmots,1,0,0,0
+2002,Russia,P-02105,Vladimir Beschastnykh,0,1,0,0
+2002,Russia,P-03504,Dmitri Sychev,0,1,0,0
+2002,Japan,P-04309,Hiroaki Morishima,0,1,0,0
+2002,Japan,P-08622,Hidetoshi Nakata,0,1,0,0
+2002,Poland,P-05113,Emmanuel Olisadebe,1,0,0,0
+2002,Poland,P-00972,Paweł Kryszałowicz,1,0,0,0
+2002,Poland,P-05873,Marcin Żewłakow,1,0,0,0
+2002,United States,P-06818,Landon Donovan,0,1,0,0
+2002,South Korea,P-00100,Ji-sung Park,0,1,0,0
+2002,Germany,P-03809,Oliver Neuville,1,0,0,0
+2002,England,P-06624,Rio Ferdinand,0,1,0,0
+2002,England,P-07705,Michael Owen,0,1,0,0
+2002,England,P-02832,Emile Heskey,0,1,0,0
+2002,Sweden,P-09697,Henrik Larsson,1,0,0,0
+2002,Senegal,P-06850,Henri Camara,0,1,0,0
+2002,Senegal,P-06850,Henri Camara,0,1,0,0
+2002,Spain,P-01593,Fernando Morientes,1,0,0,0
+2002,Republic of Ireland,P-08628,Robbie Keane,0,1,0,1
+2002,United States,P-07284,Brian McBride,0,1,0,0
+2002,United States,P-06818,Landon Donovan,0,1,0,0
+2002,Brazil,P-00008, Rivaldo,1,0,0,0
+2002,Brazil,P-04601, Ronaldo,1,0,0,0
+2002,Turkey,P-01361,Ümit Davala,0,1,0,0
+2002,South Korea,P-07749,Ki-hyeon Seol,1,0,0,0
+2002,South Korea,P-07103,Jung-hwan Ahn,1,0,0,0
+2002,Italy,P-04765,Christian Vieri,0,1,0,0
+2002,England,P-07705,Michael Owen,1,0,0,0
+2002,Brazil,P-00008, Rivaldo,0,1,0,0
+2002,Brazil,P-09952, Ronaldinho,0,1,0,0
+2002,Germany,P-05827,Michael Ballack,1,0,0,0
+2002,Turkey,P-01607,İlhan Mansız,0,1,0,0
+2002,Germany,P-05827,Michael Ballack,1,0,0,0
+2002,Brazil,P-04601, Ronaldo,1,0,0,0
+2002,South Korea,P-05103,Eul-yong Lee,1,0,0,0
+2002,South Korea,P-07275,Chong-gug Song,1,0,0,0
+2002,Turkey,P-06124,Hakan Şükür,0,1,0,0
+2002,Turkey,P-01607,İlhan Mansız,0,1,0,0
+2002,Turkey,P-01607,İlhan Mansız,0,1,0,0
+2002,Brazil,P-04601, Ronaldo,0,1,0,0
+2002,Brazil,P-04601, Ronaldo,0,1,0,0
+2006,Germany,P-00485,Philipp Lahm,1,0,0,0
+2006,Germany,P-05239,Miroslav Klose,1,0,0,0
+2006,Germany,P-05239,Miroslav Klose,1,0,0,0
+2006,Germany,P-02737,Torsten Frings,1,0,0,0
+2006,Costa Rica,P-00792,Paulo Wanchope,0,1,0,0
+2006,Costa Rica,P-00792,Paulo Wanchope,0,1,0,0
+2006,Ecuador,P-09367,Carlos Tenorio,0,1,0,0
+2006,Ecuador,P-06431,Agustín Delgado,0,1,0,0
+2006,Paraguay,P-03869,Carlos Gamarra,1,0,1,0
+2006,Argentina,P-07013,Hernán Crespo,1,0,0,0
+2006,Argentina,P-00238,Javier Saviola,1,0,0,0
+2006,Ivory Coast,P-08969,Didier Drogba,0,1,0,0
+2006,Netherlands,P-06098,Arjen Robben,0,1,0,0
+2006,Mexico,P-05224,Omar Bravo,1,0,0,0
+2006,Mexico,P-05224,Omar Bravo,1,0,0,0
+2006,Mexico,P-04575, Sinha,1,0,0,0
+2006,Iran,P-01408,Yahya Golmohammadi,0,1,0,0
+2006,Portugal,P-01987, Pauleta,0,1,0,0
+2006,Australia,P-09745,Tim Cahill,1,0,0,0
+2006,Australia,P-09745,Tim Cahill,1,0,0,0
+2006,Australia,P-04807,John Aloisi,1,0,0,0
+2006,Japan,P-08266,Shunsuke Nakamura,0,1,0,0
+2006,Czech Republic,P-08610,Jan Koller,0,1,0,0
+2006,Czech Republic,P-03836,Tomáš Rosický,0,1,0,0
+2006,Czech Republic,P-03836,Tomáš Rosický,0,1,0,0
+2006,Italy,P-09247,Andrea Pirlo,1,0,0,0
+2006,Italy,P-06801,Vincenzo Iaquinta,1,0,0,0
+2006,South Korea,P-06863,Chun-soo Lee,1,0,0,0
+2006,South Korea,P-07103,Jung-hwan Ahn,1,0,0,0
+2006,Togo,P-08090,Mohamed Kader,0,1,0,0
+2006,Brazil,P-02726, Kaká,1,0,0,0
+2006,Spain,P-03244,Xabi Alonso,1,0,0,0
+2006,Spain,P-04291,David Villa,1,0,0,0
+2006,Spain,P-04291,David Villa,1,0,0,1
+2006,Spain,P-06519,Fernando Torres,1,0,0,0
+2006,Tunisia,P-09989,Ziad Jaziri,1,0,0,0
+2006,Tunisia,P-09167,Radhi Jaïdi,1,0,0,0
+2006,Saudi Arabia,P-05687,Yasser Al-Qahtani,0,1,0,0
+2006,Saudi Arabia,P-06162,Sami Al-Jaber,0,1,0,0
+2006,Germany,P-03809,Oliver Neuville,1,0,0,0
+2006,Ecuador,P-09367,Carlos Tenorio,1,0,0,0
+2006,Ecuador,P-06431,Agustín Delgado,1,0,0,0
+2006,Ecuador,P-09701,Iván Kaviedes,1,0,0,0
+2006,England,P-09504,Peter Crouch,1,0,0,0
+2006,England,P-07513,Steven Gerrard,1,0,0,0
+2006,Sweden,P-01499,Freddie Ljungberg,1,0,0,0
+2006,Argentina,P-09914,Maxi Rodríguez,1,0,0,0
+2006,Argentina,P-09914,Maxi Rodríguez,1,0,0,0
+2006,Argentina,P-08770,Esteban Cambiasso,1,0,0,0
+2006,Argentina,P-07013,Hernán Crespo,1,0,0,0
+2006,Argentina,P-02135,Carlos Tevez,1,0,0,0
+2006,Argentina,P-06410,Lionel Messi,1,0,0,0
+2006,Netherlands,P-05286,Robin van Persie,1,0,0,0
+2006,Netherlands,P-08919,Ruud van Nistelrooy,1,0,0,0
+2006,Ivory Coast,P-05586,Bakari Koné,0,1,0,0
+2006,Portugal,P-03802, Deco,1,0,0,0
+2006,Portugal,P-03015,Cristiano Ronaldo,1,0,0,1
+2006,Ghana,P-07680,Asamoah Gyan,0,1,0,0
+2006,Ghana,P-02970,Sulley Muntari,0,1,0,0
+2006,Italy,P-07752,Alberto Gilardino,1,0,0,0
+2006,Italy,P-00890,Cristian Zaccardo,0,1,1,0
+2006,Brazil,P-08367, Adriano,1,0,0,0
+2006,Brazil,P-09130, Fred,1,0,0,0
+2006,France,P-06999,Thierry Henry,1,0,0,0
+2006,South Korea,P-00100,Ji-sung Park,0,1,0,0
+2006,Switzerland,P-02320,Alexander Frei,0,1,0,0
+2006,Switzerland,P-00432,Tranquillo Barnetta,0,1,0,0
+2006,Ukraine,P-06359,Andriy Rusol,0,1,0,0
+2006,Ukraine,P-00704,Serhii Rebrov,0,1,0,0
+2006,Ukraine,P-08264,Andriy Shevchenko,0,1,0,0
+2006,Ukraine,P-08084,Maksym Kalynychenko,0,1,0,0
+2006,Spain,P-03846, Raúl,1,0,0,0
+2006,Spain,P-06519,Fernando Torres,1,0,0,0
+2006,Spain,P-06519,Fernando Torres,1,0,0,1
+2006,Tunisia,P-09351,Jawhar Mnari,0,1,0,0
+2006,Costa Rica,P-06595,Rónald Gómez,1,0,0,0
+2006,Poland,P-04761,Bartosz Bosacki,0,1,0,0
+2006,Poland,P-04761,Bartosz Bosacki,0,1,0,0
+2006,Germany,P-05239,Miroslav Klose,0,1,0,0
+2006,Germany,P-05239,Miroslav Klose,0,1,0,0
+2006,Germany,P-07597,Lukas Podolski,0,1,0,0
+2006,Paraguay,P-02234,Nelson Cuevas,1,0,0,0
+2006,Trinidad and Tobago,P-04849,Brent Sancho,1,0,1,0
+2006,Sweden,P-06184,Marcus Allbäck,1,0,0,0
+2006,Sweden,P-09697,Henrik Larsson,1,0,0,0
+2006,England,P-00931,Joe Cole,0,1,0,0
+2006,England,P-07513,Steven Gerrard,0,1,0,0
+2006,Iran,P-07555,Sohrab Bakhtiarizadeh,1,0,0,0
+2006,Angola,P-06810, Flávio,0,1,0,0
+2006,Portugal,P-05696, Maniche,1,0,0,0
+2006,Portugal,P-04616, Simão,1,0,0,1
+2006,Mexico,P-00845,Francisco Fonseca,0,1,0,0
+2006,Ivory Coast,P-07422,Aruna Dindane,1,0,0,1
+2006,Ivory Coast,P-07422,Aruna Dindane,1,0,0,0
+2006,Ivory Coast,P-09731,Bonaventure Kalou,1,0,0,1
+2006,Serbia and Montenegro,P-09048,Nikola Žigić,0,1,0,0
+2006,Serbia and Montenegro,P-02389,Saša Ilić,0,1,0,0
+2006,Italy,P-06473,Marco Materazzi,0,1,0,0
+2006,Italy,P-09404,Filippo Inzaghi,0,1,0,0
+2006,Ghana,P-08900,Haminu Draman,1,0,0,0
+2006,Ghana,P-04406,Stephen Appiah,1,0,0,1
+2006,United States,P-04433,Clint Dempsey,0,1,0,0
+2006,Croatia,P-09858,Darijo Srna,1,0,0,0
+2006,Croatia,P-05226,Niko Kovač,1,0,0,0
+2006,Australia,P-08141,Craig Moore,0,1,0,1
+2006,Australia,P-06101,Harry Kewell,0,1,0,0
+2006,Japan,P-04718,Keiji Tamada,1,0,0,0
+2006,Brazil,P-04601, Ronaldo,0,1,0,0
+2006,Brazil,P-04601, Ronaldo,0,1,0,0
+2006,Brazil,P-01278,Juninho Pernambucano,0,1,0,0
+2006,Brazil,P-08461, Gilberto,0,1,0,0
+2006,Spain,P-04267, Juanito,0,1,0,0
+2006,Ukraine,P-08264,Andriy Shevchenko,1,0,0,1
+2006,Switzerland,P-05851,Philippe Senderos,1,0,0,0
+2006,Switzerland,P-02320,Alexander Frei,1,0,0,0
+2006,France,P-07271,Patrick Vieira,0,1,0,0
+2006,France,P-06999,Thierry Henry,0,1,0,0
+2006,Germany,P-07597,Lukas Podolski,1,0,0,0
+2006,Germany,P-07597,Lukas Podolski,1,0,0,0
+2006,Argentina,P-07013,Hernán Crespo,1,0,0,0
+2006,Argentina,P-09914,Maxi Rodríguez,1,0,0,0
+2006,Mexico,P-02847,Rafael Márquez,0,1,0,0
+2006,England,P-00614,David Beckham,1,0,0,0
+2006,Portugal,P-05696, Maniche,1,0,0,0
+2006,Italy,P-01266,Francesco Totti,1,0,0,1
+2006,Brazil,P-04601, Ronaldo,1,0,0,0
+2006,Brazil,P-08367, Adriano,1,0,0,0
+2006,Brazil,P-03062, Zé Roberto,1,0,0,0
+2006,Spain,P-04291,David Villa,1,0,0,1
+2006,France,P-06507,Franck Ribéry,0,1,0,0
+2006,France,P-07271,Patrick Vieira,0,1,0,0
+2006,France,P-03582,Zinedine Zidane,0,1,0,0
+2006,Germany,P-05239,Miroslav Klose,1,0,0,0
+2006,Argentina,P-09897,Roberto Ayala,0,1,0,0
+2006,Italy,P-02305,Gianluca Zambrotta,1,0,0,0
+2006,Italy,P-03638,Luca Toni,1,0,0,0
+2006,Italy,P-03638,Luca Toni,1,0,0,0
+2006,France,P-06999,Thierry Henry,0,1,0,0
+2006,Italy,P-08133,Fabio Grosso,0,1,0,0
+2006,Italy,P-09417,Alessandro Del Piero,0,1,0,0
+2006,France,P-03582,Zinedine Zidane,0,1,0,1
+2006,Germany,P-03082,Bastian Schweinsteiger,1,0,0,0
+2006,Germany,P-03082,Bastian Schweinsteiger,1,0,0,0
+2006,Portugal,P-07384,Nuno Gomes,0,1,0,0
+2006,Portugal,P-08111, Petit,1,0,1,0
+2006,Italy,P-06473,Marco Materazzi,1,0,0,0
+2006,France,P-03582,Zinedine Zidane,0,1,0,1
+2010,South Africa,P-05473,Siphiwe Tshabalala,1,0,0,0
+2010,Mexico,P-02847,Rafael Márquez,0,1,0,0
+2010,South Korea,P-01725,Jung-soo Lee,1,0,0,0
+2010,South Korea,P-00100,Ji-sung Park,1,0,0,0
+2010,Argentina,P-06528,Gabriel Heinze,1,0,0,0
+2010,England,P-07513,Steven Gerrard,1,0,0,0
+2010,United States,P-04433,Clint Dempsey,0,1,0,0
+2010,Slovenia,P-04968,Robert Koren,0,1,0,0
+2010,Ghana,P-07680,Asamoah Gyan,0,1,0,1
+2010,Germany,P-07597,Lukas Podolski,1,0,0,0
+2010,Germany,P-05239,Miroslav Klose,1,0,0,0
+2010,Germany,P-00904,Thomas Müller,1,0,0,0
+2010,Germany,P-09199, Cacau,1,0,0,0
+2010,Netherlands,P-04256,Dirk Kuyt,1,0,0,0
+2010,Denmark,P-08906,Daniel Agger,1,0,1,0
+2010,Japan,P-04468,Keisuke Honda,1,0,0,0
+2010,Italy,P-04810,Daniele De Rossi,1,0,0,0
+2010,Paraguay,P-01056,Antolín Alcaraz,0,1,0,0
+2010,New Zealand,P-07468,Winston Reid,1,0,0,0
+2010,Slovakia,P-08013,Róbert Vittek,0,1,0,0
+2010,Brazil,P-09704, Maicon,1,0,0,0
+2010,Brazil,P-08273, Elano,1,0,0,0
+2010,North Korea,P-07082,Yun-nam Ji,0,1,0,0
+2010,Chile,P-07780,Jean Beausejour,0,1,0,0
+2010,Switzerland,P-01302,Gélson Fernandes,0,1,0,0
+2010,Uruguay,P-01628,Diego Forlán,0,1,0,0
+2010,Uruguay,P-01628,Diego Forlán,0,1,0,1
+2010,Uruguay,P-05259,Álvaro Pereira,0,1,0,0
+2010,Argentina,P-00300,Gonzalo Higuaín,1,0,0,0
+2010,Argentina,P-00300,Gonzalo Higuaín,1,0,0,0
+2010,Argentina,P-00300,Gonzalo Higuaín,1,0,0,0
+2010,South Korea,P-09156,Chung-yong Lee,0,1,0,0
+2010,South Korea,P-08534,Chu-young Park,1,0,1,0
+2010,Greece,P-02656,Dimitris Salpingidis,1,0,0,0
+2010,Greece,P-09277,Vasilis Torosidis,1,0,0,0
+2010,Nigeria,P-06768,Kalu Uche,0,1,0,0
+2010,Mexico,P-07104,Javier Hernández,0,1,0,0
+2010,Mexico,P-00729,Cuauhtémoc Blanco,0,1,0,1
+2010,Serbia,P-01618,Milan Jovanović,0,1,0,0
+2010,Slovenia,P-04713,Valter Birsa,1,0,0,0
+2010,Slovenia,P-03165,Zlatan Ljubijankić,1,0,0,0
+2010,United States,P-06818,Landon Donovan,0,1,0,0
+2010,United States,P-06235,Michael Bradley,0,1,0,0
+2010,Netherlands,P-06373,Wesley Sneijder,1,0,0,0
+2010,Ghana,P-07680,Asamoah Gyan,1,0,0,1
+2010,Australia,P-04940,Brett Holman,0,1,0,0
+2010,Cameroon,P-03935,Samuel Eto'o,1,0,0,0
+2010,Denmark,P-01764,Nicklas Bendtner,0,1,0,0
+2010,Denmark,P-02256,Dennis Rommedahl,0,1,0,0
+2010,Paraguay,P-02510,Enrique Vera,0,1,0,0
+2010,Paraguay,P-04961,Cristian Riveros,0,1,0,0
+2010,Italy,P-06801,Vincenzo Iaquinta,1,0,0,1
+2010,New Zealand,P-03936,Shane Smeltz,0,1,0,0
+2010,Brazil,P-06981,Luís Fabiano,1,0,0,0
+2010,Brazil,P-06981,Luís Fabiano,1,0,0,0
+2010,Brazil,P-08273, Elano,1,0,0,0
+2010,Ivory Coast,P-08969,Didier Drogba,0,1,0,0
+2010,Portugal,P-06038,Raul Meireles,1,0,0,0
+2010,Portugal,P-04616, Simão,1,0,0,0
+2010,Portugal,P-09658,Hugo Almeida,1,0,0,0
+2010,Portugal,P-05056, Tiago,1,0,0,0
+2010,Portugal,P-05056, Tiago,1,0,0,0
+2010,Portugal,P-00909, Liédson,1,0,0,0
+2010,Portugal,P-03015,Cristiano Ronaldo,1,0,0,0
+2010,Chile,P-00224,Mark González,1,0,0,0
+2010,Spain,P-04291,David Villa,1,0,0,0
+2010,Spain,P-04291,David Villa,1,0,0,0
+2010,France,P-03934,Florent Malouda,1,0,0,0
+2010,South Africa,P-08621,Bongani Khumalo,0,1,0,0
+2010,South Africa,P-08963,Katlego Mphela,0,1,0,0
+2010,Uruguay,P-05749,Luis Suárez,0,1,0,0
+2010,Argentina,P-07699,Martín Demichelis,0,1,0,0
+2010,Argentina,P-05247,Martín Palermo,0,1,0,0
+2010,Nigeria,P-06768,Kalu Uche,1,0,0,0
+2010,Nigeria,P-00509, Yakubu,1,0,0,1
+2010,South Korea,P-01725,Jung-soo Lee,0,1,0,0
+2010,South Korea,P-08534,Chu-young Park,0,1,0,0
+2010,England,P-00781,Jermain Defoe,0,1,0,0
+2010,United States,P-06818,Landon Donovan,1,0,0,0
+2010,Australia,P-09745,Tim Cahill,1,0,0,0
+2010,Australia,P-04940,Brett Holman,1,0,0,0
+2010,Serbia,P-03319,Marko Pantelić,0,1,0,0
+2010,Germany,P-05458,Mesut Özil,0,1,0,0
+2010,Slovakia,P-08013,Róbert Vittek,1,0,0,0
+2010,Slovakia,P-08013,Róbert Vittek,1,0,0,0
+2010,Slovakia,P-02342,Kamil Kopúnek,1,0,0,0
+2010,Italy,P-08291,Antonio Di Natale,0,1,0,0
+2010,Italy,P-05544,Fabio Quagliarella,0,1,0,0
+2010,Cameroon,P-03935,Samuel Eto'o,1,0,0,1
+2010,Netherlands,P-05286,Robin van Persie,0,1,0,0
+2010,Netherlands,P-03271,Klaas-Jan Huntelaar,0,1,0,0
+2010,Denmark,P-09841,Jon Dahl Tomasson,1,0,0,0
+2010,Japan,P-04468,Keisuke Honda,0,1,0,0
+2010,Japan,P-00514,Yasuhito Endō,0,1,0,0
+2010,Japan,P-03847,Shinji Okazaki,0,1,0,0
+2010,Ivory Coast,P-02735,Yaya Touré,0,1,0,0
+2010,Ivory Coast,P-05935, Romaric,0,1,0,0
+2010,Ivory Coast,P-04006,Salomon Kalou,0,1,0,0
+2010,Chile,P-04113,Rodrigo Millar,1,0,0,0
+2010,Spain,P-04291,David Villa,0,1,0,0
+2010,Spain,P-02237,Andrés Iniesta,0,1,0,0
+2010,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2010,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2010,South Korea,P-09156,Chung-yong Lee,0,1,0,0
+2010,United States,P-06818,Landon Donovan,1,0,0,1
+2010,Ghana,P-00259,Kevin-Prince Boateng,0,1,0,0
+2010,Ghana,P-07680,Asamoah Gyan,0,1,0,0
+2010,Germany,P-05239,Miroslav Klose,1,0,0,0
+2010,Germany,P-07597,Lukas Podolski,1,0,0,0
+2010,Germany,P-00904,Thomas Müller,1,0,0,0
+2010,Germany,P-00904,Thomas Müller,1,0,0,0
+2010,England,P-08811,Matthew Upson,0,1,0,0
+2010,Argentina,P-02135,Carlos Tevez,1,0,0,0
+2010,Argentina,P-02135,Carlos Tevez,1,0,0,0
+2010,Argentina,P-00300,Gonzalo Higuaín,1,0,0,0
+2010,Mexico,P-07104,Javier Hernández,0,1,0,0
+2010,Netherlands,P-06098,Arjen Robben,1,0,0,0
+2010,Netherlands,P-06373,Wesley Sneijder,1,0,0,0
+2010,Slovakia,P-08013,Róbert Vittek,0,1,0,1
+2010,Brazil,P-04958, Juan,1,0,0,0
+2010,Brazil,P-06981,Luís Fabiano,1,0,0,0
+2010,Brazil,P-05977, Robinho,1,0,0,0
+2010,Spain,P-04291,David Villa,1,0,0,0
+2010,Netherlands,P-06373,Wesley Sneijder,1,0,0,0
+2010,Netherlands,P-06373,Wesley Sneijder,1,0,0,0
+2010,Brazil,P-05977, Robinho,0,1,0,0
+2010,Uruguay,P-01628,Diego Forlán,1,0,0,0
+2010,Ghana,P-02970,Sulley Muntari,0,1,0,0
+2010,Germany,P-00904,Thomas Müller,0,1,0,0
+2010,Germany,P-05239,Miroslav Klose,0,1,0,0
+2010,Germany,P-05239,Miroslav Klose,0,1,0,0
+2010,Germany,P-06104,Arne Friedrich,0,1,0,0
+2010,Spain,P-04291,David Villa,0,1,0,0
+2010,Uruguay,P-01628,Diego Forlán,1,0,0,0
+2010,Uruguay,P-03202,Maxi Pereira,1,0,0,0
+2010,Netherlands,P-06698,Giovanni van Bronckhorst,0,1,0,0
+2010,Netherlands,P-06373,Wesley Sneijder,0,1,0,0
+2010,Netherlands,P-06098,Arjen Robben,0,1,0,0
+2010,Spain,P-00568,Carles Puyol,0,1,0,0
+2010,Uruguay,P-00985,Edinson Cavani,1,0,0,0
+2010,Uruguay,P-01628,Diego Forlán,1,0,0,0
+2010,Germany,P-00904,Thomas Müller,0,1,0,0
+2010,Germany,P-08755,Marcell Jansen,0,1,0,0
+2010,Germany,P-00049,Sami Khedira,0,1,0,0
+2010,Spain,P-02237,Andrés Iniesta,0,1,0,0
+2014,Brazil,P-01576, Neymar,1,0,0,0
+2014,Brazil,P-01576, Neymar,1,0,0,1
+2014,Brazil,P-07869, Oscar,1,0,0,0
+2014,Brazil,P-08112, Marcelo,0,1,1,0
+2014,Mexico,P-01677,Oribe Peralta,1,0,0,0
+2014,Spain,P-03244,Xabi Alonso,1,0,0,1
+2014,Netherlands,P-05286,Robin van Persie,0,1,0,0
+2014,Netherlands,P-05286,Robin van Persie,0,1,0,0
+2014,Netherlands,P-06098,Arjen Robben,0,1,0,0
+2014,Netherlands,P-06098,Arjen Robben,0,1,0,0
+2014,Netherlands,P-06774,Stefan de Vrij,0,1,0,0
+2014,Chile,P-08149,Alexis Sánchez,1,0,0,0
+2014,Chile,P-03528,Jorge Valdivia,1,0,0,0
+2014,Chile,P-07780,Jean Beausejour,1,0,0,0
+2014,Australia,P-09745,Tim Cahill,0,1,0,0
+2014,Colombia,P-02817,Pablo Armero,1,0,0,0
+2014,Colombia,P-04355,Teófilo Gutiérrez,1,0,0,0
+2014,Colombia,P-03676,James Rodríguez,1,0,0,0
+2014,Uruguay,P-00985,Edinson Cavani,1,0,0,1
+2014,Costa Rica,P-04407,Joel Campbell,0,1,0,0
+2014,Costa Rica,P-04533,Óscar Duarte,0,1,0,0
+2014,Costa Rica,P-09443,Marco Ureña,0,1,0,0
+2014,England,P-07055,Daniel Sturridge,1,0,0,0
+2014,Italy,P-03343,Claudio Marchisio,0,1,0,0
+2014,Italy,P-04874,Mario Balotelli,0,1,0,0
+2014,Ivory Coast,P-04997,Wilfried Bony,1,0,0,0
+2014,Ivory Coast,P-01756, Gervinho,1,0,0,0
+2014,Japan,P-04468,Keisuke Honda,0,1,0,0
+2014,Switzerland,P-03832,Admir Mehmedi,1,0,0,0
+2014,Switzerland,P-09827,Haris Seferovic,1,0,0,0
+2014,Ecuador,P-04001,Enner Valencia,0,1,0,0
+2014,France,P-00798,Karim Benzema,1,0,0,1
+2014,France,P-00798,Karim Benzema,1,0,0,0
+2014,Honduras,P-09085,Noel Valladares,1,0,1,0
+2014,Argentina,P-06410,Lionel Messi,1,0,0,0
+2014,Bosnia and Herzegovina,P-02959,Vedad Ibišević,0,1,0,0
+2014,Bosnia and Herzegovina,P-01609,Sead Kolašinac,1,0,1,0
+2014,Germany,P-00904,Thomas Müller,1,0,0,1
+2014,Germany,P-00904,Thomas Müller,1,0,0,0
+2014,Germany,P-00904,Thomas Müller,1,0,0,0
+2014,Germany,P-03386,Mats Hummels,1,0,0,0
+2014,Ghana,P-02485,André Ayew,1,0,0,0
+2014,United States,P-04433,Clint Dempsey,0,1,0,0
+2014,United States,P-09091,John Brooks,0,1,0,0
+2014,Belgium,P-00718,Marouane Fellaini,1,0,0,0
+2014,Belgium,P-06609,Dries Mertens,1,0,0,0
+2014,Algeria,P-09126,Sofiane Feghouli,0,1,0,1
+2014,Russia,P-08283,Aleksandr Kerzhakov,1,0,0,0
+2014,South Korea,P-09490,Keun-ho Lee,0,1,0,0
+2014,Australia,P-09745,Tim Cahill,1,0,0,0
+2014,Australia,P-08920,Mile Jedinak,1,0,0,1
+2014,Netherlands,P-06098,Arjen Robben,0,1,0,0
+2014,Netherlands,P-05286,Robin van Persie,0,1,0,0
+2014,Netherlands,P-01083,Memphis Depay,0,1,0,0
+2014,Chile,P-03790,Eduardo Vargas,0,1,0,0
+2014,Chile,P-01784,Charles Aránguiz,0,1,0,0
+2014,Croatia,P-08876,Ivica Olić,0,1,0,0
+2014,Croatia,P-04888,Ivan Perišić,0,1,0,0
+2014,Croatia,P-09489,Mario Mandžukić,0,1,0,0
+2014,Croatia,P-09489,Mario Mandžukić,0,1,0,0
+2014,Colombia,P-03676,James Rodríguez,1,0,0,0
+2014,Colombia,P-02343,Juan Fernando Quintero,1,0,0,0
+2014,Ivory Coast,P-01756, Gervinho,0,1,0,0
+2014,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2014,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2014,England,P-06747,Wayne Rooney,0,1,0,0
+2014,Costa Rica,P-01537,Bryan Ruiz,0,1,0,0
+2014,Switzerland,P-03892,Blerim Džemaili,1,0,0,0
+2014,Switzerland,P-03575,Granit Xhaka,1,0,0,0
+2014,France,P-09623,Olivier Giroud,0,1,0,0
+2014,France,P-08606,Blaise Matuidi,0,1,0,0
+2014,France,P-02212,Mathieu Valbuena,0,1,0,0
+2014,France,P-00798,Karim Benzema,0,1,0,0
+2014,France,P-02032,Moussa Sissoko,0,1,0,0
+2014,Honduras,P-02503,Carlo Costly,1,0,0,0
+2014,Ecuador,P-04001,Enner Valencia,0,1,0,0
+2014,Ecuador,P-04001,Enner Valencia,0,1,0,0
+2014,Argentina,P-06410,Lionel Messi,1,0,0,0
+2014,Germany,P-02208,Mario Götze,1,0,0,0
+2014,Germany,P-05239,Miroslav Klose,1,0,0,0
+2014,Ghana,P-02485,André Ayew,0,1,0,0
+2014,Ghana,P-07680,Asamoah Gyan,0,1,0,0
+2014,Nigeria,P-06909,Peter Odemwingie,1,0,0,0
+2014,Belgium,P-03835,Divock Origi,1,0,0,0
+2014,South Korea,P-01218,Heung-min Son,1,0,0,0
+2014,South Korea,P-08255,Ja-cheol Koo,1,0,0,0
+2014,Algeria,P-02287,Islam Slimani,0,1,0,0
+2014,Algeria,P-03640,Rafik Halliche,0,1,0,0
+2014,Algeria,P-04262,Abdelmoumene Djabou,0,1,0,0
+2014,Algeria,P-02558,Yacine Brahimi,0,1,0,0
+2014,United States,P-05154,Jermaine Jones,1,0,0,0
+2014,United States,P-04433,Clint Dempsey,1,0,0,0
+2014,Portugal,P-07327, Nani,0,1,0,0
+2014,Portugal,P-01755,Silvestre Varela,0,1,0,0
+2014,Spain,P-04291,David Villa,0,1,0,0
+2014,Spain,P-06519,Fernando Torres,0,1,0,0
+2014,Spain,P-08708,Juan Mata,0,1,0,0
+2014,Netherlands,P-03709,Leroy Fer,1,0,0,0
+2014,Netherlands,P-01083,Memphis Depay,1,0,0,0
+2014,Cameroon,P-09548,Joël Matip,1,0,0,0
+2014,Brazil,P-01576, Neymar,0,1,0,0
+2014,Brazil,P-01576, Neymar,0,1,0,0
+2014,Brazil,P-09130, Fred,0,1,0,0
+2014,Brazil,P-07790, Fernandinho,0,1,0,0
+2014,Croatia,P-04888,Ivan Perišić,1,0,0,0
+2014,Mexico,P-02847,Rafael Márquez,0,1,0,0
+2014,Mexico,P-05170,Andrés Guardado,0,1,0,0
+2014,Mexico,P-07104,Javier Hernández,0,1,0,0
+2014,Uruguay,P-05457,Diego Godín,0,1,0,0
+2014,Japan,P-03847,Shinji Okazaki,1,0,0,0
+2014,Colombia,P-05374,Juan Cuadrado,0,1,0,1
+2014,Colombia,P-00278,Jackson Martínez,0,1,0,0
+2014,Colombia,P-00278,Jackson Martínez,0,1,0,0
+2014,Colombia,P-03676,James Rodríguez,0,1,0,0
+2014,Greece,P-06148,Andreas Samaris,1,0,0,0
+2014,Greece,P-00791,Georgios Samaras,1,0,0,1
+2014,Ivory Coast,P-04997,Wilfried Bony,0,1,0,0
+2014,Bosnia and Herzegovina,P-01282,Edin Džeko,1,0,0,0
+2014,Bosnia and Herzegovina,P-03840,Miralem Pjanić,1,0,0,0
+2014,Bosnia and Herzegovina,P-04173,Avdija Vršajević,1,0,0,0
+2014,Iran,P-09098,Reza Ghoochannejhad,0,1,0,0
+2014,Nigeria,P-09657,Ahmed Musa,1,0,0,0
+2014,Nigeria,P-09657,Ahmed Musa,1,0,0,0
+2014,Argentina,P-06410,Lionel Messi,0,1,0,0
+2014,Argentina,P-06410,Lionel Messi,0,1,0,0
+2014,Argentina,P-02956,Marcos Rojo,0,1,0,0
+2014,Switzerland,P-02710,Xherdan Shaqiri,0,1,0,0
+2014,Switzerland,P-02710,Xherdan Shaqiri,0,1,0,0
+2014,Switzerland,P-02710,Xherdan Shaqiri,0,1,0,0
+2014,Portugal,P-03015,Cristiano Ronaldo,1,0,0,0
+2014,Ghana,P-07680,Asamoah Gyan,0,1,0,0
+2014,Ghana,P-05148,John Boye,1,0,1,0
+2014,Germany,P-00904,Thomas Müller,0,1,0,0
+2014,Algeria,P-02287,Islam Slimani,1,0,0,0
+2014,Russia,P-04161,Aleksandr Kokorin,0,1,0,0
+2014,Belgium,P-09346,Jan Vertonghen,0,1,0,0
+2014,Brazil,P-01380,David Luiz,1,0,0,0
+2014,Chile,P-08149,Alexis Sánchez,0,1,0,0
+2014,Colombia,P-03676,James Rodríguez,1,0,0,0
+2014,Colombia,P-03676,James Rodríguez,1,0,0,0
+2014,Netherlands,P-06373,Wesley Sneijder,1,0,0,0
+2014,Netherlands,P-03271,Klaas-Jan Huntelaar,1,0,0,1
+2014,Mexico,P-07818,Giovani dos Santos,0,1,0,0
+2014,Costa Rica,P-01537,Bryan Ruiz,1,0,0,0
+2014,Greece,P-03120,Sokratis Papastathopoulos,0,1,0,0
+2014,France,P-06083,Paul Pogba,1,0,0,0
+2014,Nigeria,P-01415,Joseph Yobo,1,0,1,0
+2014,Germany,P-09818,André Schürrle,1,0,0,0
+2014,Germany,P-05458,Mesut Özil,1,0,0,0
+2014,Algeria,P-04262,Abdelmoumene Djabou,0,1,0,0
+2014,Argentina,P-04158,Ángel Di María,1,0,0,0
+2014,Belgium,P-09445,Kevin De Bruyne,1,0,0,0
+2014,Belgium,P-02175,Romelu Lukaku,1,0,0,0
+2014,United States,P-06110,Julian Green,0,1,0,0
+2014,Germany,P-03386,Mats Hummels,0,1,0,0
+2014,Brazil,P-02425,Thiago Silva,1,0,0,0
+2014,Brazil,P-01380,David Luiz,1,0,0,0
+2014,Colombia,P-03676,James Rodríguez,0,1,0,1
+2014,Argentina,P-00300,Gonzalo Higuaín,1,0,0,0
+2014,Brazil,P-07869, Oscar,1,0,0,0
+2014,Germany,P-00904,Thomas Müller,0,1,0,0
+2014,Germany,P-05239,Miroslav Klose,0,1,0,0
+2014,Germany,P-03473,Toni Kroos,0,1,0,0
+2014,Germany,P-03473,Toni Kroos,0,1,0,0
+2014,Germany,P-00049,Sami Khedira,0,1,0,0
+2014,Germany,P-09818,André Schürrle,0,1,0,0
+2014,Germany,P-09818,André Schürrle,0,1,0,0
+2014,Netherlands,P-05286,Robin van Persie,0,1,0,1
+2014,Netherlands,P-04511,Daley Blind,0,1,0,0
+2014,Netherlands,P-01696,Georginio Wijnaldum,0,1,0,0
+2014,Germany,P-02208,Mario Götze,1,0,0,0
+2018,Russia,P-04916,Yury Gazinsky,1,0,0,0
+2018,Russia,P-03235,Denis Cheryshev,1,0,0,0
+2018,Russia,P-03235,Denis Cheryshev,1,0,0,0
+2018,Russia,P-02333,Artem Dzyuba,1,0,0,0
+2018,Russia,P-09666,Aleksandr Golovin,1,0,0,0
+2018,Uruguay,P-05093,José Giménez,0,1,0,0
+2018,Morocco,P-08853,Aziz Bouhaddouz,0,1,1,0
+2018,Portugal,P-03015,Cristiano Ronaldo,1,0,0,1
+2018,Portugal,P-03015,Cristiano Ronaldo,1,0,0,0
+2018,Portugal,P-03015,Cristiano Ronaldo,1,0,0,0
+2018,Spain,P-05908,Diego Costa,0,1,0,0
+2018,Spain,P-05908,Diego Costa,0,1,0,0
+2018,Spain,P-08736, Nacho,0,1,0,0
+2018,France,P-06140,Antoine Griezmann,1,0,0,1
+2018,Australia,P-08920,Mile Jedinak,0,1,0,1
+2018,Australia,P-03998,Aziz Behich,1,0,1,0
+2018,Argentina,P-01157,Sergio Agüero,1,0,0,0
+2018,Iceland,P-01866,Alfreð Finnbogason,0,1,0,0
+2018,Denmark,P-05846,Yussuf Poulsen,0,1,0,0
+2018,Croatia,P-03056,Luka Modrić,1,0,0,1
+2018,Nigeria,P-02645,Peter Etebo,1,0,1,0
+2018,Serbia,P-08249,Aleksandar Kolarov,0,1,0,0
+2018,Mexico,P-08544,Hirving Lozano,0,1,0,0
+2018,Brazil,P-07487,Philippe Coutinho,1,0,0,0
+2018,Switzerland,P-04170,Steven Zuber,0,1,0,0
+2018,Sweden,P-04441,Andreas Granqvist,1,0,0,1
+2018,Belgium,P-06609,Dries Mertens,1,0,0,0
+2018,Belgium,P-02175,Romelu Lukaku,1,0,0,0
+2018,Belgium,P-02175,Romelu Lukaku,1,0,0,0
+2018,Tunisia,P-06072,Ferjani Sassi,1,0,0,1
+2018,England,P-08448,Harry Kane,0,1,0,0
+2018,England,P-08448,Harry Kane,0,1,0,0
+2018,Colombia,P-02343,Juan Fernando Quintero,1,0,0,0
+2018,Japan,P-03379,Shinji Kagawa,0,1,0,1
+2018,Japan,P-01627,Yuya Osako,0,1,0,0
+2018,Poland,P-03372,Grzegorz Krychowiak,1,0,0,0
+2018,Senegal,P-03964,M'Baye Niang,0,1,0,0
+2018,Poland,P-07121,Thiago Cionek,0,1,1,0
+2018,Russia,P-03235,Denis Cheryshev,1,0,0,0
+2018,Russia,P-02333,Artem Dzyuba,1,0,0,0
+2018,Egypt,P-09422,Mohamed Salah,0,1,0,1
+2018,Egypt,P-07592,Ahmed Fathy,1,0,1,0
+2018,Portugal,P-03015,Cristiano Ronaldo,1,0,0,0
+2018,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2018,Spain,P-05908,Diego Costa,0,1,0,0
+2018,Denmark,P-03262,Christian Eriksen,1,0,0,0
+2018,Australia,P-08920,Mile Jedinak,0,1,0,1
+2018,France,P-02842,Kylian Mbappé,1,0,0,0
+2018,Croatia,P-03363,Ante Rebić,0,1,0,0
+2018,Croatia,P-03056,Luka Modrić,0,1,0,0
+2018,Croatia,P-05588,Ivan Rakitić,0,1,0,0
+2018,Brazil,P-07487,Philippe Coutinho,1,0,0,0
+2018,Brazil,P-01576, Neymar,1,0,0,0
+2018,Nigeria,P-09657,Ahmed Musa,1,0,0,0
+2018,Nigeria,P-09657,Ahmed Musa,1,0,0,0
+2018,Serbia,P-03872,Aleksandar Mitrović,1,0,0,0
+2018,Switzerland,P-03575,Granit Xhaka,0,1,0,0
+2018,Switzerland,P-02710,Xherdan Shaqiri,0,1,0,0
+2018,Belgium,P-04214,Eden Hazard,1,0,0,1
+2018,Belgium,P-04214,Eden Hazard,1,0,0,0
+2018,Belgium,P-02175,Romelu Lukaku,1,0,0,0
+2018,Belgium,P-02175,Romelu Lukaku,1,0,0,0
+2018,Belgium,P-05828,Michy Batshuayi,1,0,0,0
+2018,Tunisia,P-08302,Dylan Bronn,0,1,0,0
+2018,Tunisia,P-04187,Wahbi Khazri,0,1,0,0
+2018,South Korea,P-01218,Heung-min Son,1,0,0,0
+2018,Mexico,P-06343,Carlos Vela,0,1,0,1
+2018,Mexico,P-07104,Javier Hernández,0,1,0,0
+2018,Germany,P-09116,Marco Reus,1,0,0,0
+2018,Germany,P-03473,Toni Kroos,1,0,0,0
+2018,Sweden,P-07679,Ola Toivonen,0,1,0,0
+2018,England,P-07039,John Stones,1,0,0,0
+2018,England,P-07039,John Stones,1,0,0,0
+2018,England,P-08448,Harry Kane,1,0,0,1
+2018,England,P-08448,Harry Kane,1,0,0,1
+2018,England,P-08448,Harry Kane,1,0,0,0
+2018,England,P-09733,Jesse Lingard,1,0,0,0
+2018,Panama,P-02470,Felipe Baloy,0,1,0,0
+2018,Japan,P-08843,Takashi Inui,1,0,0,0
+2018,Japan,P-04468,Keisuke Honda,1,0,0,0
+2018,Senegal,P-09095,Sadio Mané,0,1,0,0
+2018,Senegal,P-04908,Moussa Wagué,0,1,0,0
+2018,Colombia,P-01385,Yerry Mina,0,1,0,0
+2018,Colombia,P-03402,Radamel Falcao,0,1,0,0
+2018,Colombia,P-05374,Juan Cuadrado,0,1,0,0
+2018,Saudi Arabia,P-09480,Salman Al-Faraj,1,0,0,1
+2018,Saudi Arabia,P-03366,Salem Al-Dawsari,1,0,0,0
+2018,Egypt,P-09422,Mohamed Salah,0,1,0,0
+2018,Uruguay,P-05749,Luis Suárez,1,0,0,0
+2018,Uruguay,P-00985,Edinson Cavani,1,0,0,0
+2018,Russia,P-03235,Denis Cheryshev,1,0,1,0
+2018,Spain,P-06486, Isco,1,0,0,0
+2018,Spain,P-08847,Iago Aspas,1,0,0,0
+2018,Morocco,P-07925,Khalid Boutaïb,0,1,0,0
+2018,Morocco,P-01351,Youssef En-Nesyri,0,1,0,0
+2018,Iran,P-02640,Karim Ansarifard,1,0,0,1
+2018,Portugal,P-06488,Ricardo Quaresma,0,1,0,0
+2018,Peru,P-07257,André Carrillo,0,1,0,0
+2018,Peru,P-04404,Paolo Guerrero,0,1,0,0
+2018,Iceland,P-02859,Gylfi Sigurðsson,1,0,0,1
+2018,Croatia,P-09692,Milan Badelj,0,1,0,0
+2018,Croatia,P-04888,Ivan Perišić,0,1,0,0
+2018,Nigeria,P-08787,Victor Moses,1,0,0,1
+2018,Argentina,P-06410,Lionel Messi,0,1,0,0
+2018,Argentina,P-02956,Marcos Rojo,0,1,0,0
+2018,South Korea,P-06085,Young-gwon Kim,1,0,0,0
+2018,South Korea,P-01218,Heung-min Son,1,0,0,0
+2018,Sweden,P-03603,Ludwig Augustinsson,0,1,0,0
+2018,Sweden,P-04441,Andreas Granqvist,0,1,0,1
+2018,Mexico,P-02421,Edson Álvarez,0,1,1,0
+2018,Brazil,P-03917, Paulinho,0,1,0,0
+2018,Brazil,P-02425,Thiago Silva,0,1,0,0
+2018,Switzerland,P-03892,Blerim Džemaili,1,0,0,0
+2018,Switzerland,P-00218,Josip Drmić,1,0,0,0
+2018,Costa Rica,P-03225,Kendall Waston,0,1,0,0
+2018,Switzerland,P-05007,Yann Sommer,0,1,1,0
+2018,Poland,P-01200,Jan Bednarek,0,1,0,0
+2018,Colombia,P-01385,Yerry Mina,0,1,0,0
+2018,Belgium,P-00051,Adnan Januzaj,0,1,0,0
+2018,Tunisia,P-03253,Fakhreddine Ben Youssef,0,1,0,0
+2018,Tunisia,P-04187,Wahbi Khazri,0,1,0,0
+2018,Tunisia,P-07761,Yassine Meriah,1,0,1,0
+2018,France,P-06140,Antoine Griezmann,1,0,0,1
+2018,France,P-00409,Benjamin Pavard,1,0,0,0
+2018,France,P-02842,Kylian Mbappé,1,0,0,0
+2018,France,P-02842,Kylian Mbappé,1,0,0,0
+2018,Argentina,P-04158,Ángel Di María,0,1,0,0
+2018,Argentina,P-07359,Gabriel Mercado,0,1,0,0
+2018,Argentina,P-01157,Sergio Agüero,0,1,0,0
+2018,Uruguay,P-00985,Edinson Cavani,1,0,0,0
+2018,Uruguay,P-00985,Edinson Cavani,1,0,0,0
+2018,Portugal,P-05692, Pepe,0,1,0,0
+2018,Russia,P-02333,Artem Dzyuba,0,1,0,1
+2018,Russia,P-02908,Sergei Ignashevich,1,0,1,0
+2018,Croatia,P-09489,Mario Mandžukić,1,0,0,0
+2018,Denmark,P-05647,Mathias Jørgensen,0,1,0,0
+2018,Brazil,P-01576, Neymar,1,0,0,0
+2018,Brazil,P-01940,Roberto Firmino,1,0,0,0
+2018,Belgium,P-09346,Jan Vertonghen,1,0,0,0
+2018,Belgium,P-00718,Marouane Fellaini,1,0,0,0
+2018,Belgium,P-06292,Nacer Chadli,1,0,0,0
+2018,Japan,P-03878,Genki Haraguchi,0,1,0,0
+2018,Japan,P-08843,Takashi Inui,0,1,0,0
+2018,Sweden,P-06565,Emil Forsberg,1,0,0,0
+2018,Colombia,P-01385,Yerry Mina,1,0,0,0
+2018,England,P-08448,Harry Kane,0,1,0,1
+2018,France,P-06400,Raphaël Varane,0,1,0,0
+2018,France,P-06140,Antoine Griezmann,0,1,0,0
+2018,Brazil,P-08163,Renato Augusto,1,0,0,0
+2018,Belgium,P-09445,Kevin De Bruyne,0,1,0,0
+2018,Brazil,P-07790, Fernandinho,0,1,1,0
+2018,England,P-03540,Harry Maguire,0,1,0,0
+2018,England,P-02492,Dele Alli,0,1,0,0
+2018,Russia,P-03235,Denis Cheryshev,1,0,0,0
+2018,Russia,P-00156,Mário Fernandes,1,0,0,0
+2018,Croatia,P-03779,Andrej Kramarić,0,1,0,0
+2018,Croatia,P-06323,Domagoj Vida,0,1,0,0
+2018,France,P-07356,Samuel Umtiti,1,0,0,0
+2018,Croatia,P-04888,Ivan Perišić,1,0,0,0
+2018,Croatia,P-09489,Mario Mandžukić,1,0,0,0
+2018,England,P-00490,Kieran Trippier,0,1,0,0
+2018,Belgium,P-05305,Thomas Meunier,1,0,0,0
+2018,Belgium,P-04214,Eden Hazard,1,0,0,0
+2018,France,P-06140,Antoine Griezmann,1,0,0,1
+2018,France,P-06083,Paul Pogba,1,0,0,0
+2018,France,P-02842,Kylian Mbappé,1,0,0,0
+2018,Croatia,P-04888,Ivan Perišić,0,1,0,0
+2018,Croatia,P-09489,Mario Mandžukić,0,1,0,0
+2018,Croatia,P-09489,Mario Mandžukić,1,0,1,0
